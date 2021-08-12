@@ -9,8 +9,10 @@ Os sites analiados pelo interantes já fazia parte de outros projetos com isso t
 - MPU;
 - Detran DF;
 <p style="text-indent: 20px; align = "justify">
-Entre esses a equipe escolheu o <strong>Findglocal</strong>
+Entre esses a equipe escolheu o <a href="https://www.findglocal.com/"><strong>Findglocal</strong></a>
 </p>
+
+
 
 ## 2. Metodologia  
 <p style="text-indent: 20px; align = "justify">
