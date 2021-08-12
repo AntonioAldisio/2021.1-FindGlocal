@@ -1,19 +1,18 @@
-# 2021.1 - FindGlocal
 ## Sobre o Projeto
-<p align="justify"> Repositório destinado à disciplina de Interação Humano computador sobre o site FindGlocal com o professor Andre Barros de Sales.</p>
+<p style="text-indent: 20px; align = "justify"> Repositório destinado à disciplina de Interação Humano computador sobre o site FindGlocal com o professor Andre Barros de Sales.</p>
 
-## Sobre o Aplicativo 
-<p align = "justify"> ----- </p>
+## Sobre o Site 
+<p style="text-indent: 20px; align = "justify"> A FindGlocal é um site internacional de serviços, em que as empresas podem divulgar seus negócios gratuitamente, ajudando as empresas a serem encontradas de forma mais fácil na internet. O site localiza aonde está o usuário e mostra diversos estabelecimentos próximos, havendo a opção de procurar por locais específicos também. Nas descrições dos locais pode-se colocar propagandas, cardápios, páginas de redes sociais e outros. A ideia do site é muito boa, mas foi escolhido porque possui alguns problemas com relação a usabilidade, ferindo as heurísticas de Nielsen.</p>
 
 ## Integrantes 
 
-| Nome | Github | email |
-| ---  | ---    | --- |
-|Antonio Aldísio | AntoonioAldisio | aldisiofilho@gmail.com |
-|Álvaro  Gouvea| AlGouvea | --- | 
-|Sofia  Oliveira|  biancasofia | --- | 
-|Guilherme  Souza |  --- | --- | 
-|Rafael  Amancio| Rafael-gc | --- |
-|Vinicius Porto| ViniciusPuerto |  |
+| Fotos |Nome | Github | email |
+| :---: | :---:  | :---: | :---: |
+|<img width="150px" height = "140px"  style="border-radius:10%" src="./assets/Integrantes/Antonio.png" alt="Antonio">| Antonio Aldísio | AntoonioAldisio | aldisiofilho@gmail.com |
+|<img width="150px" height = "140px"  style="border-radius:10%" src="./assets/Integrantes/Antonio.png" alt="Antonio">|Álvaro  Gouvea| AlGouvea | --- | 
+|<img width="150px" height = "140px"  style="border-radius:10%" src="./assets/Integrantes/sofia.jpeg" alt="Sofia">|Sofia  Oliveira|  biancasofia | sofiabrasil44@gmail.com | 
+|<img width="150px" height = "140px"  style="border-radius:10%" src="./assets/Integrantes/Antonio.png" alt="Antonio">|Guilherme  Souza |  GuilhermeBritoDeSouza | --- | 
+|<img width="150px" height = "140px"  style="border-radius:10%" src="./assets/Integrantes/Antonio.png" alt="Antonio">|Rafael  Amancio| Rafael-gc | --- |
+|<img width="150px" height = "140px"  style="border-radius:10%" src="./assets/Integrantes/Antonio.png" alt="Antonio">|Vinicius Porto| ViniciusPuerto |  |
 
 
