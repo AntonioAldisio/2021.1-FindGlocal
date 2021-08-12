@@ -10,7 +10,7 @@
 | :---: | :---:  | :---: | :---: |
 |<img width="150px" height = "140px"  style="border-radius:10%" src="./assets/Integrantes/Antonio.png" alt="Antonio">| Antonio Aldísio | AntoonioAldisio | aldisiofilho@gmail.com |
 |<img width="150px" height = "140px"  style="border-radius:10%" src="./assets/Integrantes/Antonio.png" alt="Antonio">|Álvaro  Gouvea| AlGouvea | --- | 
-|<img width="150px" height = "140px"  style="border-radius:10%" src="./assets/Integrantes/sofia.jpeg" alt="Sofia">|Sofia  Oliveira|  biancasofia | sofiabrasil44@gmail.com | 
+|<img width="150px" height = "140px"  style="border-radius:10%" src="./assets/Integrantes/sofia.jpeg" alt="Sofia">|Bianca Sofia  Oliveira|  biancasofia | sofiabrasil44@gmail.com | 
 |<img width="150px" height = "140px"  style="border-radius:10%" src="./assets/Integrantes/Antonio.png" alt="Antonio">|Guilherme  Souza |  GuilhermeBritoDeSouza | --- | 
 |<img width="150px" height = "140px"  style="border-radius:10%" src="./assets/Integrantes/Antonio.png" alt="Antonio">|Rafael  Amancio| Rafael-gc | --- |
 |<img width="150px" height = "140px"  style="border-radius:10%" src="./assets/Integrantes/Antonio.png" alt="Antonio">|Vinicius Porto| ViniciusPuerto |  |
