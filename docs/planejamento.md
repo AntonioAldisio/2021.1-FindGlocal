@@ -82,7 +82,7 @@ O <a href="https://trello.com/invite/b/s12YKWmv/527876c609dd986d7c9343b09588115d
 
 - <p  align = "justify"> <strong>Instalação: </strong> O design busca por opiniões dos usuários após algum tempo de uso do sistema [3].</p>
 
-<img width="800px"   style="border-radius:10%" src="../../assets/imgs/ciclo_mayhew.png" alt="ciclo_mayhew">
+<img width="800px"   style="border-radius:10%" src="../assets/imgs/ciclo_mayhew.png" alt="ciclo_mayhew">
 <figcaption> <p  align = "center">Figura 01: Ciclo de Mayhew. Fonte: [2] </figcaption></p>
 
 
