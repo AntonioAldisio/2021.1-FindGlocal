@@ -24,7 +24,7 @@ Teve inicio às 8h30
 
 - Escolha do site a ser analisado.
 - Escolha da metodologia adotada pela grupo.
-- Escolha de ferramentas adotadas pelo grupo.
+- Escolha das ferramentas adotadas pelo grupo.
 
 ## 5 Discussões
 
@@ -47,7 +47,7 @@ Todos os membros presentes na reunião queriam trabalhar com Scrum ou kanban.For
 
 | Técnica | Vantagens | Desvantagens |
 |--|--|--|
-| Scrum | Contato diário com o projeto <br> Correção de erros mais rápido | Necessidade de reunião diária <br> Necssidade de daliy| 
+| Scrum | Contato diário com o projeto <br> Correção de erros mais rápido | Necessidade de reunião diária| 
 | Kanban | Trasnparência entre a equipe <br> Controle sobre as atividades | Não teve apresetação de desvantagens |
 
 <p style="text-indent: 20px; align = "justify">
