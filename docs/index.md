@@ -14,7 +14,6 @@
 |<img width="150px" height = "140px"  style="border-radius:10%" src="https://github.com/AlGouvea.png" alt="Antonio">|Álvaro  Gouvea| AlGouvea | --- | 
 |<img width="150px" height = "140px"  style="border-radius:10%" src="./assets/Integrantes/sofia.jpeg" alt="Sofia">|Bianca Sofia  Oliveira|  biancasofia | sofiabrasil44@gmail.com | 
 |<img width="150px" height = "140px"  style="border-radius:10%" src="https://github.com/GuilhermeBritoDeSouza.png" alt="Antonio">|Guilherme  Souza |  GuilhermeBritoDeSouza | --- | 
-|<img width="150px" height = "140px"  style="border-radius:10%" src="https://github.com/Rafael-gc.png" alt="Antonio">|Rafael  Amancio| Rafael-gc | --- |
 |<img width="150px" height = "140px"  style="border-radius:10%" src="https://github.com/ViniciusPuerto.png" alt="Antonio">|Vinicius Porto| ViniciusPuerto |  |
 
 

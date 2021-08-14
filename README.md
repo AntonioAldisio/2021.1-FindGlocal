@@ -13,7 +13,6 @@
 |Álvaro  Gouvea| AlGouvea | --- | 
 |Sofia  Oliveira|  biancasofia | --- | 
 |Guilherme  Souza |  --- | --- | 
-|Rafael  Amancio| Rafael-gc | --- |
 |Vinicius Porto| ViniciusPuerto |  |
 
 
