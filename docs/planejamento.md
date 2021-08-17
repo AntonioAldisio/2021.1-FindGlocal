@@ -91,13 +91,14 @@ O <a href="https://trello.com/invite/b/s12YKWmv/527876c609dd986d7c9343b09588115d
 
 
 
-## 4. Ferramentas Utilizadas
+## 5. Ferramentas Utilizadas
 
 <center>
 
 | Ferramenta | Nome | Descrição |
 |:--:|:--:|:--:|
-|<img width="80px" height="80px" src="../assets/AplicativosUsados/github.png" alt="github">|<a href="https://github.com/Requisitos-de-Software/2021.1-Caixa_Tem" target="_blank">Github| Ferramenta de controle de versão de arquivos e código |   
+|<img width="80px" height="80px" src="../assets/AplicativosUsados/github.png" alt="github">|<a href="https://github.com/Requisitos-de-Software/2021.1-Caixa_Tem" target="_blank">Github| Ferramenta de controle de versão de arquivos e código |  
+|<img width="80px" height="80px" src="../assets/AplicativosUsados/trello.png" alt="trello">|<a href="https://trello.com/invite/b/s12YKWmv/527876c609dd986d7c9343b09588115d/kanban-template" target="_blank">Trello| Ferramenta de Quadro Kanban |   
 |<img width="80px" height="80px" src="../assets/AplicativosUsados/google.png" alt="google">|<a href="https://google.com/" target="_blank">Google Workspace| Ferramenta de compatilhamento de arquivo |  
 |<img width="80px" height="80px" src="../assets/AplicativosUsados/teams.jpeg" alt="teams">|<a href="https://google.com/" target="_blank"> Teams| Ferramenta  de reunião do grupo e gravação de apresentaçōes |  
 |<img width="80px" height="80px" src="../assets/AplicativosUsados/whatsapp.jpeg" alt="whatsapp">|<a href="https://web.whatapp.com/" target="_blank"> Whatsapp| Mensageiro principal do grupo para diálogo  |  
