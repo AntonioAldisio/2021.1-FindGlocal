@@ -9,6 +9,11 @@ docs_dir: docs/
 nav:
   - Sobre: index.md
   - Planejamento: planejamento.md
+  - Análise de requisitos:
+    - Perfil do usuário: 
+      - Personas: 'requisitos/perfil_do_usuario.md'
+    - Análise de tarefas: 
+      - Análise Hierárquica de tarefas: 'requisitos/analise_de_tarefas.md'
   - Atas de reunião:
     - Ata 01: 'Atas/Ata01.md'
   - Apresentaçōes:
