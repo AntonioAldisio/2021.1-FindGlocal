@@ -36,6 +36,8 @@ Como o grupo adotou o Ciclo de Mayhew temos que realizar a entrega de parte do p
 |:--:|:--:|
 |Perfil do usuário| Bianca sofia <br> Guilherme  Souza <br> Vinicius Porto|
 |Análise de tarefas| Antônio Aldísio <br> Álvaro  Gouvea |
+|Revisores Análise de tarefas| Bianca sofia <br> Guilherme  Souza <br> Vinicius Porto|
+|Revisores Perfil do usuário| Antônio Aldísio <br> Álvaro  Gouvea |
 
 </center>
 
