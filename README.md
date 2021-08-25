@@ -10,7 +10,7 @@
 | Nome | Github | email |
 | ---  | ---    | --- |
 |Antonio Aldísio | AntoonioAldisio | aldisiofilho@gmail.com |
-|Álvaro  Gouvea| AlGouvea | --- | 
+|Álvaro  Gouvea| AlGouvea | alvarohsgouvea@gmail.com | 
 |Sofia  Oliveira|  biancasofia | --- | 
 |Guilherme  Souza |  --- | --- | 
 |Vinicius Porto| ViniciusPuerto |  |
