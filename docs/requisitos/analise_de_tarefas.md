@@ -77,7 +77,8 @@ tarefas mais complexas para fragmentá-las e assim seguir o fluxo.
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 | 19/08/2021 | Criação do site | Antônio Aldísio |
-| 1.0 | 25/08/2021 | Acréscimo do conteúdo de HTA | Antônio Aldísio |
-
+| 1.1 | 25/08/2021 | Acréscimo do conteúdo de HTA | Antônio Aldísio |
+| 1.3 | 25/08/2021 | Acréscimo do conteúdo de CTT | Álvaro  Gouvea |
+| 1.4 | 30/08/2021 | Revisado | Guilherme e Bianca Sofia |
 
 </center>
