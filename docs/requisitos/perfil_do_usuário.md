@@ -1,11 +1,11 @@
 # Perfil do usuário
 
-## 1. INTRODUÇÃO
+## 1. Introdução
 <p style="text-indent: 20px; align = "justify">
 Nessa parte buscamos identificar perfis de usuário que pudessem vir a conhecer o site FindGLocal, o que eles realizam no site e o que os levaram até lá.
 </p>
 
-## 2. OBJETIVO
+## 2. Objetivo
 <p style="text-indent: 20px; align = "justify">
 Tem como objetivo analisar, com base nas repostas dos entrevistados, formar um perfil de usuário.
 </p>
