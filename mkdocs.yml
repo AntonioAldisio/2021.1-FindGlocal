@@ -14,6 +14,9 @@ nav:
       - Questionário: 'requisitos/questionarios.md'
       - Perfil do Usuário: 'requisitos/perfil_do_usuário.md'
       - Personas: 'requisitos/personas.md'
+      - Princípios Gerais de Projeto: 'requisitos/principios.md'
+      - Metas de Usabilidade: 'requisitos/usabilidade.md'
+      - Guia de Estilo: ''requisitos/guiadeuso.md''
     - Análise de tarefas: 
       - Análise Hierárquica de tarefas: 'requisitos/analise_de_tarefas.md'
   - Atas de reunião:
