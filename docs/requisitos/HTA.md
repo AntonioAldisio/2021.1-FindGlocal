@@ -64,6 +64,7 @@ pareça mais alto na hierarquia. (Seels & Glasgow, 1990, p. 94)".
 | 1.3 | 25/08/2021 | Acréscimo do conteúdo de CTT | Álvaro  Gouvea |
 | 1.4 | 30/08/2021 | Revisado | Guilherme e Bianca Sofia |
 | 1.5 | 02/08/2021 | Separação de página | Antônio Aldísio |
+| 1.6 | 06/09/2021 | Acréscimo de Imagens de HTA | Álvaro  Gouvea |
 
 
 </center>
