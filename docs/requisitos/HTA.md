@@ -37,7 +37,14 @@ pareça mais alto na hierarquia. (Seels & Glasgow, 1990, p. 94)".
 <center>                                                                                                                                            
 
 <img width="450x"  src="../../assets/imgs/HTA02.jpeg" alt="disponibildiade">
-<figcaption>Figura 01 - HTA 02 Cadastrar loja </figcaption>
+<figcaption>Figura 02 - HTA 02 Cadastrar loja </figcaption>
+                                                                           
+</center>
+
+<center>                                                                                                                                            
+
+<img width="450x"  src="../../assets/imgs/HTA03.png" alt="disponibildiade">
+<figcaption>Figura 03 - HTA 03 Denunciar Anuncio </figcaption>
                                                                            
 </center>
 

@@ -19,7 +19,7 @@ tarefas mais complexas para fragmentá-las e assim seguir o fluxo.
 <center>
 
 <img width="450px" src="../../assets/imgs/CTT01.png" alt="CTT01">
-<figcaption>Figura 03 - CTT 01 Buscar loja </figcaption>
+<figcaption>Figura 01 - CTT 01 Buscar loja </figcaption>
   
 </center>
 
@@ -27,8 +27,15 @@ tarefas mais complexas para fragmentá-las e assim seguir o fluxo.
 <center>
 
 <img width="450px" src="../../assets/imgs/CTT02.png" alt="CTT02">
-<figcaption>Figura 04 - CTT 02 Buscar loja </figcaption>
+<figcaption>Figura 02 - CTT 02 Buscar loja </figcaption>
   
+</center>
+
+<center>
+
+<img width="450px" src="../../assets/imgs/CTT03.png" alt="CTT03">
+<figcaption>Figura 03 - CTT 02 Denunciar Anuncio </figcaption>
+
 </center>
 
 ## Bibliografia <a id="Bibliografia"></a>
