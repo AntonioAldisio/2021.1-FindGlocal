@@ -9,9 +9,11 @@
 <p style="text-indent: 20px; align = "justify">
     A eficácia, em geral, se refere a se o sistema faz o que é esperado dele, logo o sistema serve ao seu propósito?, ele deixa que o usuário realize seus trabalhos de forma que seja satisfatória?
     O FindGlocal possui uma média eficácia, tendo em vista que apesar de fazer o que promete, ele dificulta empresas a se cadastrarem, deixando a parte de cadastro e login em partes do site pouco exploradas. Uma possível solução seria deixar o login em partes mais visíveis. 
-	</p>
+</p>
+
 ## 3. Eficiência
-	<p style="text-indent: 20px; align = "justify">
+
+<p style="text-indent: 20px; align = "justify">
      A eficiência está ligada ao sistema auxiliar o usuário na realização dos trabalhos desejados, ligada a quão rápido o usuário conseguirá alcançar seus objetivos.
      O FindGlocal terá um médio nível de produtividade depois de se aprender como realizar as tarefas , devido a questão dos cadastros das empresas como citado acima e pela superlotação de informações ao clicar nas localizações.
 </p>
