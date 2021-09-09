@@ -34,9 +34,10 @@ Divisão das tarefas
 
 | Bloco | Participantes| Revisor |
 |:--:|:--:|:--:|
-|Planejamento da Avaliação| Antônio Aldísio <br> Vinicius Porto | Álvaro  Gouvea|
-|Planejamento do relato dos resultados da avaliação do Storyboard| Bianca Sofia <br> Guilherme Souza| Antônio Aldísio <br> Vinicius Porto|
-|Análise de tarefas| Álvaro  Gouvea |  Bianca Sofia <br> Guilherme Souza|
+|Planejamento da Avaliação| Antônio Aldísio <br> Bianca Sofia | Álvaro  Gouvea|
+|Relato dos resultados da avaliação do Storyboard| Vinicius Porto| Bianca Sofia|
+|Relato dos resultados da avaliação do Storyboard| Álvaro  Gouvea| Vinicius Porto |
+|Desenvolvimento do Storyboard| Guilherme Souza|Antônio Aldísio |
 | Correção da wiki| Antônio Aldísio| Guilherme Souza|
 | Correção e Reaplicação do questionário | Guilherme Souza| Antônio Aldísio |
 
@@ -46,7 +47,7 @@ Divisão das tarefas
 
 
 <p style="text-indent: 20px; align = "justify">
-Entrega é para ser feita até o dia 02/08/2021.
+Entrega é para ser feita até o dia 12/09/2021.
 </p>
 
 
@@ -58,5 +59,6 @@ Entrega é para ser feita até o dia 02/08/2021.
 | Versão | Data | Modificação | Autor |
 |:--:|:--:|:--:|:--:|
 | 1.0  | 03/08/2021 | Adição de conteúdo | Antônio Aldísio |
+| 2.0  | 09/08/2021 | Adequação de tempo e atividades | Antônio Aldísio |
 
 </center>
