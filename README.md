@@ -12,7 +12,7 @@
 |Antonio Aldísio | AntoonioAldisio | aldisiofilho@gmail.com |
 |Álvaro  Gouvea| AlGouvea | alvarohsgouvea@gmail.com | 
 |Sofia  Oliveira|  biancasofia | --- | 
-|Guilherme  Souza |  --- | --- | 
-|Vinicius Porto| ViniciusPuerto |  |
+|Guilherme  Souza |  GuilhermeB12 | guilhermebritodesouza2308@gmail.com | 
+|Vinicius Porto| ViniciusPuerto | --- |
 
 
