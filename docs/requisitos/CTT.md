@@ -23,13 +23,15 @@ tarefas mais complexas para fragmentá-las e assim seguir o fluxo.
   
 </center>
 
-### 2.2 CTT 02 - cadastrar Loja
+### 2.2 CTT 02 - Cadastrar Loja
 <center>
 
 <img width="450px" src="../../assets/imgs/CTT02.png" alt="CTT02">
 <figcaption>Figura 02 - CTT 02 Buscar loja </figcaption>
   
 </center>
+
+### 2.3 CTT 03 - Denúnciar Anúncio
 
 <center>
 
@@ -54,5 +56,6 @@ tarefas mais complexas para fragmentá-las e assim seguir o fluxo.
 | 1.4 | 30/08/2021 | Revisado | Guilherme e Bianca Sofia |
 | 1.5 | 02/08/2021 | Separação de página | Antônio Aldísio |
 | 1.6 | 06/09/2021 | Acréscimo de Imagens de CTT | Álvaro  Gouvea |
+| 1.7 | 12/09/2021 | Correção de Divisões | Álvaro  Gouvea |
 
 </center>

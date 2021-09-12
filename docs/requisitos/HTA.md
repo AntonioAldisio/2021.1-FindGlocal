@@ -41,6 +41,8 @@ pareça mais alto na hierarquia. (Seels & Glasgow, 1990, p. 94)".
                                                                            
 </center>
 
+### 2.3 HTA 03 - Denúnciar Anúncio
+
 <center>                                                                                                                                            
 
 <img width="450x"  src="../../assets/imgs/HTA03.png" alt="disponibildiade">
@@ -65,6 +67,7 @@ pareça mais alto na hierarquia. (Seels & Glasgow, 1990, p. 94)".
 | 1.4 | 30/08/2021 | Revisado | Guilherme e Bianca Sofia |
 | 1.5 | 02/08/2021 | Separação de página | Antônio Aldísio |
 | 1.6 | 06/09/2021 | Acréscimo de Imagens de HTA | Álvaro  Gouvea |
+| 1.7 | 12/09/2021 | Correção de Divisões | Álvaro  Gouvea |
 
 
 </center>
