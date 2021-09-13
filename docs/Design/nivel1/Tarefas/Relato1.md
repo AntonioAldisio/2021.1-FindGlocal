@@ -14,20 +14,13 @@
 </p>
 
 #### 2.1 - Questionário
-| Pergunta | Opções | 
-| ------------ | ---------------------- | 
-| 1. Com relação a [Tarefa 1], a situação ilustrada condiz com a realidade? | (x) Sim () Não () Precisa melhorar. |
-| 1.1. Caso a última pergunta seja precisa melhorar, qual sugestão de alteração ou melhoria para a tarefa você sugere? | O usuário informou que está tudo de acordo com a realidade. |
-
-| Pergunta | Opções | 
-| ------------ | ---------------------- | 
-| 2. Com relação a [Tarefa 2], a situação ilustrada condiz com a realidade? | (x) Sim () Não () Precisa melhorar. |
-| 2.1. Caso a última pergunta seja precisa melhorar, qual sugestão de alteração ou melhoria para a tarefa você sugere? | O usuário informou que está tudo de acordo com a realidade. |
-
-| Pergunta | Opções | 
-| ------------ | ---------------------- | 
-| 3. Com relação a [Tarefa 3], a situação ilustrada condiz com a realidade? | () Sim () Não (x) Precisa melhorar. |
-| 3.1. Caso a última pergunta seja precisa melhorar, qual sugestão de alteração ou melhoria para a tarefa você sugere? | O usuário informou que as ações de Selecionar Loja e Fazer Login deveriam ser trocadas. |
+|Perguntas |Opções | 
+|:--:|:--:|
+|Você já utilizou o site FindGlocal?|Sim () <br> Não(x) |
+|A situação ilustrada na análise de tarefas condiz com a realidade?| Sim (x) <br> Não() <br> Precisa ajustar()|
+|Possui alguma sugestão de melhoria, baseado na pergunta anterior| Não deu sugestão |
+|O fluxo da análise de tarefas está feito de maneira correta| Sim (x)<br> Não() <br> Precisa ajustar()|
+|Possui alguma sugestão de melhoria?, baseado na pergunta anterior| O usuário informou que as ações de Selecionar Loja e Fazer Login deveriam ser trocadas.|
 
 ### 3. Pedro Saldanha
 <p style="text-indent: 20px; align = "justify">
@@ -35,20 +28,13 @@
 </p>
 
 #### 3.1 - Questionário
-| Pergunta | Opções | 
-| ------------ | ---------------------- | 
-| 1. Com relação a [Tarefa 1](https://interacao-humano-computador.github.io/2021.1-FindGlocal/requisitos/HTA/#21-HTA-01---Buscar-Loja), a situação ilustrada condiz com a realidade? | (x) Sim () Não () Precisa melhorar. |
-| 1.1. Caso a última pergunta seja precisa melhorar, qual sugestão de alteração ou melhoria para a tarefa você sugere? | O usuário informou que está tudo de acordo com a realidade. |
-
-| Pergunta | Opções | 
-| ------------ | ---------------------- | 
-| 2. Com relação a [Tarefa 2](https://interacao-humano-computador.github.io/2021.1-FindGlocal/requisitos/HTA/#22-HTA-02---Cadastrar-Loja), a situação ilustrada condiz com a realidade? | (x) Sim () Não () Precisa melhorar. |
-| 2.1. Caso a última pergunta seja precisa melhorar, qual sugestão de alteração ou melhoria para a tarefa você sugere? | O usuário informou que está tudo de acordo com a realidade. |
-
-| Pergunta | Opções | 
-| ------------ | ---------------------- | 
-| 3. Com relação a [Tarefa 3](https://interacao-humano-computador.github.io/2021.1-FindGlocal/requisitos/HTA/#23-HTA-03---Denunciar-Anuncio), a situação ilustrada condiz com a realidade? | () Sim () Não (x) Precisa melhorar. |
-| 3.1. Caso a última pergunta seja precisa melhorar, qual sugestão de alteração ou melhoria para a tarefa você sugere? | O usuário informou que a ordem das ações de Selecionar a Loja e fazer Login deveria ser trocada. |
+|Perguntas |Opções | 
+|:--:|:--:|
+|Você já utilizou o site FindGlocal?|Sim () <br> Não(x) |
+|A situação ilustrada na análise de tarefas condiz com a realidade?| Sim (x) <br> Não() <br> Precisa ajustar()|
+|Possui alguma sugestão de melhoria, baseado na pergunta anterior| Não deu sugestão |
+|O fluxo da análise de tarefas está feito de maneira correta| Sim (x)<br> Não() <br> Precisa ajustar()|
+|Possui alguma sugestão de melhoria?, baseado na pergunta anterior| O usuário informou que a ordem das ações de Selecionar a Loja e fazer Login deveria ser trocada.|
 
 ### 4. Relatório das Avaliações
 
@@ -71,5 +57,6 @@
 |--|--|--|--|
 | 1.0 | 01/09/2021 | Criação do site | Antônio Aldísio |
 | 1.1 | 12/09/2021 | Criação da página de Avaliação da Análise de Tarefas | Álvaro Gouvea |
+| 1.2 | 12/09/2021 | Correções | Álvaro Gouvea |
 
 </center>
