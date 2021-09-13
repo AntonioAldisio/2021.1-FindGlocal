@@ -30,7 +30,7 @@
 #### 3.1 - Questionário
 |Perguntas |Opções | 
 |:--:|:--:|
-|Você já utilizou o site FindGlocal?|Sim () <br> Não(x) |
+|Você já utilizou o site FindGlocal?|Sim (x) <br> Não() |
 |A situação ilustrada na análise de tarefas condiz com a realidade?| Sim (x) <br> Não() <br> Precisa ajustar()|
 |Possui alguma sugestão de melhoria, baseado na pergunta anterior| Não deu sugestão |
 |O fluxo da análise de tarefas está feito de maneira correta| Sim (x)<br> Não() <br> Precisa ajustar()|
