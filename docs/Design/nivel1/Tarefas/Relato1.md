@@ -19,7 +19,7 @@
 |Você já utilizou o site FindGlocal?|Sim () <br> Não(x) |
 |A situação ilustrada na análise de tarefas condiz com a realidade?| Sim (x) <br> Não() <br> Precisa ajustar()|
 |Possui alguma sugestão de melhoria, baseado na pergunta anterior| Não deu sugestão |
-|O fluxo da análise de tarefas está feito de maneira correta| Sim (x)<br> Não() <br> Precisa ajustar()|
+|O fluxo da análise de tarefas está feito de maneira correta| Sim ()<br> Não() <br> Precisa ajustar(x)|
 |Possui alguma sugestão de melhoria?, baseado na pergunta anterior| O usuário informou que as ações de Selecionar Loja e Fazer Login deveriam ser trocadas.|
 
 ### 3. Pedro Saldanha
@@ -33,7 +33,7 @@
 |Você já utilizou o site FindGlocal?|Sim (x) <br> Não() |
 |A situação ilustrada na análise de tarefas condiz com a realidade?| Sim (x) <br> Não() <br> Precisa ajustar()|
 |Possui alguma sugestão de melhoria, baseado na pergunta anterior| Não deu sugestão |
-|O fluxo da análise de tarefas está feito de maneira correta| Sim (x)<br> Não() <br> Precisa ajustar()|
+|O fluxo da análise de tarefas está feito de maneira correta| Sim ()<br> Não() <br> Precisa ajustar(x)|
 |Possui alguma sugestão de melhoria?, baseado na pergunta anterior| O usuário informou que a ordem das ações de Selecionar a Loja e fazer Login deveria ser trocada.|
 
 ### 4. Relatório das Avaliações
