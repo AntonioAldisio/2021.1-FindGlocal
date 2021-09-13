@@ -42,6 +42,7 @@
 <figcaption> Tabela 01 - Quadro Perguntas e opções </figcaption>
 
 </center>
+
 ## 6. Conclusão
 <p style="text-indent: 20px; align = "justify">Dessa forma, após a avaliação, o avaliador deve fazer um relatório curto e objetivo identificando os problemas identificados e seus respectivos locais, assim como, sugestões de melhorias.
 </p>

@@ -1,13 +1,15 @@
 # Avaliação Storyboard
 
-## Objetivo
-A avaliação do storyboard tem como objetivo fazer a validação do protótipo feito para cada feature do sistema
+## 1. Objetivo
+<p style="text-indent: 20px; align = "justify">
+A avaliação do storyboard tem como objetivo fazer a validação do protótipo feito para cada feature do sistema.
+</p>
 
-## Avaliações
+## 2. Avaliações
 
-### 1. Maria
+### 2.1 Maria
 
-#### 1.1 Questionário da tarefa: Cadastro no site
+#### 2.1.1 Questionário da tarefa: Cadastro no site
 
 <center>
 
@@ -23,7 +25,7 @@ A avaliação do storyboard tem como objetivo fazer a validação do protótipo 
 
 </center>
 
-#### 1.2 Questionário da tarefa: Localizar um estabelecimento
+#### 2.1.2  Questionário da tarefa: Localizar um estabelecimento
 
 |Perguntas |Opções | 
 |:--:|:--:|
@@ -43,5 +45,6 @@ A avaliação do storyboard tem como objetivo fazer a validação do protótipo 
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 |12/09/2021 | Criação da avaliação do storyboard | Vinicius Porto |
+| 2.0 | 13/08/2021 | Adequação da wiki | Antônio Aldísio |
 
 </center>

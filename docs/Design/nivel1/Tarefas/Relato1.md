@@ -2,7 +2,7 @@
 
 ## 1. Objetivo
 <p style="text-indent: 20px; align = "justify">
-	A avaliação da análise de tarefas busca validar as tarefas mencionadas nos documentos de HTA (Análise Hierárquica de Tarefas) e CTT (Árvoce de Tarefas Concorrentes).
+	A avaliação da análise de tarefas busca validar as tarefas mencionadas nos documentos de <a href="/2021.1-FindGlocal/requisitos/HTA/" >HTA (Análise Hierárquica de Tarefas) </a> e <a href="/2021.1-FindGlocal/requisitos/CTT/" > CTT (Árvoce de Tarefas Concorrentes).</a> 
 </p>
 <p style="text-indent: 20px; align = "justify">
 	Essas análises tem como objetivo demonstrar as ações necessárias para realizar alguma tarefa dentro do sistema.
@@ -58,5 +58,6 @@
 | 1.0 | 01/09/2021 | Criação do site | Antônio Aldísio |
 | 1.1 | 12/09/2021 | Criação da página de Avaliação da Análise de Tarefas | Álvaro Gouvea |
 | 1.2 | 12/09/2021 | Correções | Álvaro Gouvea |
+| 1.3 | 13/09/2021 | Inclusão de hyper link | Antônio Aldísio |
 
 </center>
