@@ -36,7 +36,7 @@ Divisão das tarefas
 |:--:|:--:|:--:|
 |Planejamento da Avaliação| Antônio Aldísio <br> Bianca Sofia | Álvaro  Gouvea|
 |Relato dos resultados da avaliação do Storyboard| Vinicius Porto| Bianca Sofia|
-|Relato dos resultados da avaliação do Storyboard| Álvaro  Gouvea| Vinicius Porto |
+|Relato dos resultados da avaliação do análise de tarefas| Álvaro  Gouvea| Vinicius Porto |
 |Desenvolvimento do Storyboard| Guilherme Souza|Antônio Aldísio |
 | Correção da wiki| Antônio Aldísio| Guilherme Souza|
 | Correção e Reaplicação do questionário | Guilherme Souza| Antônio Aldísio |
