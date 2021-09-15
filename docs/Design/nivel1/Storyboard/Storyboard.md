@@ -24,7 +24,7 @@ Nos storyboards a seguir eles contarão as histórias de 2 personas. A primeira 
 
 <center>
 
-<img width="800px"  src="../assets/Storyboards/StoryboardEstabelecimento.jpeg" alt="S2">
+<img width="800px"  src="/2021.1-FindGlocal/assets/Storyboards/StoryboardEstabelecimento.jpeg" alt="S2">
 <figcaption>Figura 02- Storyboard de  localização de estabelecimento  </figcaption>
 
 </center>
@@ -33,7 +33,7 @@ Nos storyboards a seguir eles contarão as histórias de 2 personas. A primeira 
 
 <center>
 
-<img width="800px"  src="../assets/Storyboards/StoryBoardDenuncia.jpeg" alt="S3">
+<img width="800px"  src="/2021.1-FindGlocal/assets/Storyboards/StoryBoardDenuncia.jpeg" alt="S3">
 <figcaption>Figura 03 - Storyboard de denunciar anúncio  </figcaption>
 
 </center>
