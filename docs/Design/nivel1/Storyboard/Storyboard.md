@@ -15,7 +15,7 @@ Nos storyboards a seguir eles contarão as histórias de 2 personas. A primeira 
 
 <center>
 
-<img width="800px"  src="../assets/Storyboards/StoryboardCadastro.jpeg" alt="S1">
+<img width="800px"  src="/../../../assets/Storyboards/StoryboardCadastro.jpeg" alt="S1">
 <figcaption>Figura 01 - Storyboard de cadastro </figcaption>
 
 </center>
