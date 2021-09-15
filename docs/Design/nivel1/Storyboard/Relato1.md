@@ -46,5 +46,6 @@ A avaliação do storyboard tem como objetivo fazer a validação do protótipo 
 |--|--|--|--|
 | 1.0 |12/09/2021 | Criação da avaliação do storyboard | Vinicius Porto |
 | 2.0 | 13/08/2021 | Adequação da wiki | Antônio Aldísio |
+| 2.1 | 16/08/2021 | Revisão | Bianca Sofia |
 
 </center>
