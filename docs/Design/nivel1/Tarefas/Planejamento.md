@@ -60,6 +60,7 @@ BARBOSA, S.D.J.; SILVA, B.S. Interação Humano--Computador.Editora Campus- Else
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 |09/09/2021 | Criação do site/Adição de conteúdo | Bianca Sofia e Antônio Aldísio |
+| 1.1  | 15/08/2021 | revisão |Alvaro |
 
 </center>
 

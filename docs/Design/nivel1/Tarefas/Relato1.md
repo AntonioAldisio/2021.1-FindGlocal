@@ -59,5 +59,6 @@
 | 1.1 | 12/09/2021 | Criação da página de Avaliação da Análise de Tarefas | Álvaro Gouvea |
 | 1.2 | 12/09/2021 | Correções | Álvaro Gouvea |
 | 1.3 | 13/09/2021 | Inclusão de hyper link | Antônio Aldísio |
+| 1.4  | 15/08/2021 | revisão | Vinicius Porto |
 
 </center>

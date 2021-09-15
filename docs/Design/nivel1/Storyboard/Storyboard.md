@@ -50,5 +50,6 @@ Nos storyboards a seguir eles contarão as histórias de 2 personas. A primeira 
 |:--:|:--:|:--:|:--:|
 | 1.0  | 10/09/2021 | Adição de conteúdo | Guilherme Silva |
 | 2.0  | 13/08/2021 | Adequação da wiki | Antônio Aldísio |
+| 2.1  | 15/08/2021 | revisão | Antônio Aldísio |
 
 </center>
