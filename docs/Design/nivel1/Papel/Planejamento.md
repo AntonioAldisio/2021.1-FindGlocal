@@ -1,4 +1,4 @@
-# Planejamento da Avaliação do Storyboard
+# Planejamento da Avaliação do Protótipo de Papel
 
 ## 1. Introdução
 

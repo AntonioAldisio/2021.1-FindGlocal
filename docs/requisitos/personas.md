@@ -1,6 +1,6 @@
 # Personas
 # 1. Introdução
-<p style="text-indent: 20px; text-align: = justify">
+w
 Uma persona é um personagem fictício, arquétipo hipotético de um grupo de usuários reais, criada para descrever um usuário típico (Cooper et al., 2007; Pruitt e Adlin, 2006; Cooper, 1999), logo as personas representam grupos de usuários do sistema, sendo que quanto mais específicas mais o sistema será fiel aos usuários finais representadas por essas personas.abaixo serão descritas persona primária, secundária e antipersona.
 </p>
 
@@ -22,7 +22,7 @@ Uma persona é um personagem fictício, arquétipo hipotético de um grupo de us
 </center>
 
 ## 1.2 Persona segundária
-<p style="text-indent: 20px; text-align: = justify">
+<p align = "justify">
 Persona que usará a aplicação, mas não é o foco do design.
 </p>
 <center>

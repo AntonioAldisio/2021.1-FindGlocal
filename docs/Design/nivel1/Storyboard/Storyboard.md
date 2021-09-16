@@ -2,12 +2,12 @@
 
 ## 1. Introdução
 
-<p style="text-indent: 20px; align = "justify">
+<p align = "justify">
 Storyboards são desenhos que, em uma linha cronológica, contam uma história, roteiro, como se fosse uma história em quadrinhos. Esse storyboard será a respeito de um usuário que pretende acessar o website FindGlocal para realização de suas tarefas.
 </p>
 
 ## 2. Storyboard
-<p style="text-indent: 20px; align = "justify">
+<p align = "justify">
 Nos storyboards a seguir eles contarão as histórias de 2 personas. A primeira persona é a Maria, que possui um salão de beleza e deseja o cadastrar no site FindGlocal. A segunda persona é Alberto, que é um ex policial que busca um bar para poder relaxar. Os storyboards serão como roteiros dessas duas personas para realizar suas tarefas.
 </p>
 
@@ -15,7 +15,7 @@ Nos storyboards a seguir eles contarão as histórias de 2 personas. A primeira 
 
 <center>
 
-<img width="800px"  src="/2021.1-FindGlocal/assets/Storyboards/StoryboardCadastro.jpeg" alt="S1">
+<img width="800px"  src="/2021.1-FindGlocal/assets/Storyboards/StoryboardCadastro.png" alt="S1">
 <figcaption>Figura 01 - Storyboard de cadastro </figcaption>
 
 </center>
@@ -24,7 +24,7 @@ Nos storyboards a seguir eles contarão as histórias de 2 personas. A primeira 
 
 <center>
 
-<img width="800px"  src="/2021.1-FindGlocal/assets/Storyboards/StoryboardEstabelecimento.jpeg" alt="S2">
+<img width="800px"  src="/2021.1-FindGlocal/assets/Storyboards/StoryboardEstabelecimento.png" alt="S2">
 <figcaption>Figura 02- Storyboard de  localização de estabelecimento  </figcaption>
 
 </center>
@@ -33,7 +33,7 @@ Nos storyboards a seguir eles contarão as histórias de 2 personas. A primeira 
 
 <center>
 
-<img width="800px"  src="/2021.1-FindGlocal/assets/Storyboards/StoryBoardDenuncia.jpeg" alt="S3">
+<img width="800px"  src="/2021.1-FindGlocal/assets/Storyboards/StoryBoardDenuncia.png" alt="S3">
 <figcaption>Figura 03 - Storyboard de denunciar anúncio  </figcaption>
 
 </center>

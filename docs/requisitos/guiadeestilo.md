@@ -28,11 +28,11 @@
 <figcaption>Figura 01 - Column Drop</figcaption>
 
 ## 2.2 Tipografia
-<p style="text-indent 20px; align="justify">
+<p align = "justify">
     Tipografia é definida como a arte e o processo de criação na composição de um texto, dessa forma aborda os aspectos visuais de qualquer elemento escrito do design, como títulos, parágrafos, informações em destaque, etc.</p>
 
 ### 2.2.1 Nossa Tipograifa
-<p style="text-indent 20px; align="justify">
+<p align = "justify">
     Para consitência do projeto e entre todos os membros do grupo, definimos a tipografia que será utilizada no projeto.
 </p>
 
@@ -42,7 +42,7 @@
 - Menus (menus e informações da página em si): Open Sans Regular
 
 ## 3. Simbolismo
-<p style="text-indent 20px; align="justify">
+<p align = "justify">
     O objetivo da definição do Simbolismo do projeto é manter a clareza e a consistência no design de ícones para garantir compreensão e visibilidade.
 </p>
 
@@ -58,7 +58,7 @@
 </center>
 
 ## 4. Cores
-<p style="text-indent 20px; align="justify">
+<p align = "justify">
     Para manter consistência no uso de cores e de seus tons em todas as páginas do projeto vamos também definir quais cores estarão presentes no projeto.
 </p>
 

@@ -1,13 +1,13 @@
 # Análise de tarefas
 
 ## 1.Introdução
-<p style="text-indent: 20px; align = "justify">
+<p align = "justify">
 A Análise de Tarefas é utilizada para se ter um entendimento sobre qual é o trabalho dos usuários, como eles o realizam e por quê. Nesse tipo de análise, o trabalho é definido em termos dos objetivos que os usuários querem ou precisam atingir.
 </p>
 
 
 ## 2. Árvore de tarefas concorrentes (CTT - Concur Task Trees) 
-<p stryle="text-indent: 20px; align="justify">
+<p align = "justify">
 Assim como o HTA o CTT também utiliza de uma estrutura hierárquica de tarefas 
 para conseguir reproduzir o fluxo de funcionamento de um sistema, o que o torna
 diferencial é a sua representação não estar limitada as tarefas diretamente

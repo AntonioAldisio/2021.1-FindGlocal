@@ -1,19 +1,24 @@
-# Avaliação Análise de Tarefa
+# Relato de Avaliação de Análise de tarefas - V01
 
-## 1. Objetivo
-<p style="text-indent: 20px; align = "justify">
+## 1. Introdução
+<p align = "justify">
+Esse relato de avaliação tem como base os arquivos da entrega 4, onde foi apresentando a necessidade de diversas melhorias para realizar a avaliação.
+</p>
+
+## 2. Objetivo
+<p align = "justify">
 	A avaliação da análise de tarefas busca validar as tarefas mencionadas nos documentos de <a href="/2021.1-FindGlocal/requisitos/HTA/" >HTA (Análise Hierárquica de Tarefas) </a> e <a href="/2021.1-FindGlocal/requisitos/CTT/" > CTT (Árvoce de Tarefas Concorrentes).</a> 
 </p>
-<p style="text-indent: 20px; align = "justify">
+<p align = "justify">
 	Essas análises tem como objetivo demonstrar as ações necessárias para realizar alguma tarefa dentro do sistema.
 </p>
 
-### 2. João Xavier
-<p style="text-indent: 20px; align = "justify">
+### 3. João Xavier
+<p align = "justify">
 	João Xavier tem 22 anos e é estudante de educação física, ele tem média afinidade com tecnologia e nunca utilizou a plataforma FindGlocal antes.
 </p>
 
-#### 2.1 - Questionário
+#### 3.1 - Questionário
 |Perguntas |Opções | 
 |:--:|:--:|
 |Você já utilizou o site FindGlocal?|Sim () <br> Não(x) |
@@ -22,12 +27,12 @@
 |O fluxo da análise de tarefas está feito de maneira correta| Sim ()<br> Não() <br> Precisa ajustar(x)|
 |Possui alguma sugestão de melhoria?, baseado na pergunta anterior| O usuário informou que as ações de Selecionar Loja e Fazer Login deveriam ser trocadas.|
 
-### 3. Pedro Saldanha
-<p style="text-indent: 20px; align = "justify">
+### 4. Pedro Saldanha
+<p align = "justify">
 	Pedro Saldanha tem 24 anos, é formado em administração e dono de uma pequena cafeteria, ele tem média afinidade com tecnologia e utiliza o sistema uma vez ao mês.
 </p>
 
-#### 3.1 - Questionário
+#### 4.1 - Questionário
 |Perguntas |Opções | 
 |:--:|:--:|
 |Você já utilizou o site FindGlocal?|Sim (x) <br> Não() |
@@ -36,15 +41,15 @@
 |O fluxo da análise de tarefas está feito de maneira correta| Sim ()<br> Não() <br> Precisa ajustar(x)|
 |Possui alguma sugestão de melhoria?, baseado na pergunta anterior| O usuário informou que a ordem das ações de Selecionar a Loja e fazer Login deveria ser trocada.|
 
-### 4. Relatório das Avaliações
+### 5. Relatório das Avaliações
 
 #### Participante 1
-<p style="text-indent: 20px; align = "justify">
+<p align = "justify">
 	Após a entrevista o participantes 1 informou que a [Tarefa 3] apesar de condizente com a realidade poderia ser melhorada ao inverter a ordem de duas ações, que ele acredita ser mais natural.
 </p>
 
 #### Participante 1
-<p style="text-indent: 20px; align = "justify">
+<p align = "justify">
 	Após a entrevista o participantes 2 forneceu visões similares ao participante 1, informando que a ordem das ações de Selecionar Loja e Fazer Login na [Tarefa 3], deveriam ser invertidas.
 </p>
 

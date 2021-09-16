@@ -1,15 +1,20 @@
-# Avaliação Storyboard
+# Relato de Avaliação de Storyboard - V01
 
-## 1. Objetivo
-<p style="text-indent: 20px; align = "justify">
+## 1. Introdução
+<p align = "justify">
+Esse relato de avaliação tem como base os arquivos da entrega 4, onde foi apresentando a necessidade de diversas melhorias para realizar a avaliação.
+</p>
+
+## 2. Objetivo
+<p align = "justify">
 A avaliação do storyboard tem como objetivo fazer a validação do protótipo feito para cada feature do sistema.
 </p>
 
-## 2. Avaliações
+## 3. Avaliações
 
-### 2.1 Maria
+### 3.1 Maria
 
-#### 2.1.1 Questionário da tarefa: Cadastro no site
+#### 3.1.1 Questionário da tarefa: Cadastro no site
 
 <center>
 
@@ -25,7 +30,7 @@ A avaliação do storyboard tem como objetivo fazer a validação do protótipo 
 
 </center>
 
-#### 2.1.2  Questionário da tarefa: Localizar um estabelecimento
+#### 3.1.2  Questionário da tarefa: Localizar um estabelecimento
 
 |Perguntas |Opções | 
 |:--:|:--:|

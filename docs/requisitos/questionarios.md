@@ -1,16 +1,16 @@
 # Questionário
 ## 1. Introdução
 
-<p style="text-indent: 40px; align="justify"> O questionário é uma técnica que permite a rápida obtenção de informações quantitativas e qualitativas de um público-alvo numeroso. Quando aplicada a uma amostra representativa do público, permite representar as opiniões de toda a população.</p>
-<p style="text-indent: 40px; align="justify">É uma técnica relativamente rápida e barata de ser aplicada e é muito útil quando a o público-alvo está disperso geograficamente.<a href="#Bibliografia">[1]</a><br></p>
+<p align = "justify"> O questionário é uma técnica que permite a rápida obtenção de informações quantitativas e qualitativas de um público-alvo numeroso. Quando aplicada a uma amostra representativa do público, permite representar as opiniões de toda a população.</p>
+<p align = "justify">É uma técnica relativamente rápida e barata de ser aplicada e é muito útil quando a o público-alvo está disperso geograficamente.<a href="#Bibliografia">[1]</a><br></p>
 
 ## 2. Metodologia
 
-<p style="text-indent: 40px; align="justify">O questionário foi elaborado pelo membro  Guilherme e posteriormente revisado por Antônio Aldísio. O questionário possui perguntas relacionadas ao uso do aplicativo e perguntas genéricas com o intuito de descobrir o perfil dos usuários.</p>
+<p align = "justify">O questionário foi elaborado pelo membro  Guilherme e posteriormente revisado por Antônio Aldísio. O questionário possui perguntas relacionadas ao uso do aplicativo e perguntas genéricas com o intuito de descobrir o perfil dos usuários.</p>
 
 
 ## 3. Resultado do Questionário
-<p style="text-indent: 40px; align="justify">O questionário foi aplicado entre os dias 20/08/2021 e 28/08/2021 e obteve 24 respostas. Vale resalta que nem todos os participantes responderam todas as perguntas.e Os dados obtidos podem ser analisados a seguir:</p>
+<p align = "justify">O questionário foi aplicado entre os dias 20/08/2021 e 28/08/2021 e obteve 24 respostas. Vale resalta que nem todos os participantes responderam todas as perguntas.e Os dados obtidos podem ser analisados a seguir:</p>
 
 ### 3.1. Seção Inicial
 #### Questão 1

@@ -1,22 +1,22 @@
 # Perfil do usuário
 
 ## 1. Introdução
-<p style="text-indent: 20px; align = "justify">
+<p align = "justify">
 Nessa parte buscamos identificar perfis de usuário que pudessem vir a conhecer o site FindGLocal, o que eles realizam no site e o que os levaram até lá.
 </p>
 
 ## 2. Objetivo
-<p style="text-indent: 20px; align = "justify">
+<p align = "justify">
 Tem como objetivo analisar, com base nas repostas dos entrevistados, formar um perfil de usuário.
 </p>
 
 ## 3. Coleta de dados
-<p style="text-indent: 20px; align = "justify">
+<p align = "justify">
 Para coleta de dados, enviamos formulários para pessoas de diferentes realidades para que respondessem este formulário com informações que nos permitissem traçar seus perfis.
 </p>
 
 ## 4. Perfil do usuário
-<p style="text-indent: 20px; align = "justify">
+<p align = "justify">
 A partir dos dados coletados observamos as seguintes caractersticas dos usuário:
 </p>
 

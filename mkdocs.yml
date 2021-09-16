@@ -24,18 +24,29 @@ nav:
     - Nível 1:
       - Análise de Tarefas:
         - Planejamento da Avaliação: 'Design/nivel1/Tarefas/Planejamento.md'
-        - Relato dos Resultados: 'Design/nivel1/Tarefas/Relato1.md'
+        - Planejamento do Relato dos Resultados: 'Design/nivel1/Tarefas/Planejamento_relato.md'
+        - Relatos:
+          - V01: 'Design/nivel1/Tarefas/Piloto_Relato1.md'
+          - V02: 'Design/nivel1/Tarefas/Relato2.md'
+
 
       - Storyboard:
         - Storyboard:  'Design/nivel1/Storyboard/Storyboard.md'
         - Planejamento da Avaliação: 'Design/nivel1/Storyboard/Planejamento.md'
-        - Relato dos Resultados : 'Design/nivel1/Storyboard/Relato1.md'
+        - Planejamento do Relato dos Resultados : 'Design/nivel1/Storyboard/Planejamento_relato.md'
+        - Relatos:
+          - V01: 'Design/nivel1/Storyboard/Piloto_Relato1.md'
+          - V02: 'Design/nivel1/Tarefas/Relato2.md'
 
+      - Protótipo de Papel:
+        - Planejamento da Avaliação: 'Design/nivel1/Papel/Planejamento.md'
+        - Planejamento do Relato dos Resultados: 'Design/nivel1/Papel/Planejamento_relato.md'
   - Atas de reunião:
     - Ata 01: 'Atas/Ata01.md'
     - Ata 02: 'Atas/Ata02.md'
     - Ata 03: 'Atas/Ata03.md'
     - Ata 04: 'Atas/Ata04.md'
+    - Ata 05: 'Atas/Ata05.md'
   - Apresentaçōes:
     - Apresentação 1: 'Apresentacao/apresentacao1.md'
     - Apresentação 2: 'Apresentacao/apresentacao2.md'

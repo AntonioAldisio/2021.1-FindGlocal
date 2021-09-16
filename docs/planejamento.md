@@ -1,6 +1,6 @@
 # Planejamento 
 ## 1. Sites avaliados individualmente
-<p style="text-indent: 20px; align = "justify">
+<p align = "justify">
 Os sites analiados pelo interantes já fazia parte de outros projetos com isso tivemos que procurar na internet outros sites. Foram os seguintes sites analisados em conjunto pela equipe:
 </p>
 - Findglocal;
@@ -8,14 +8,14 @@ Os sites analiados pelo interantes já fazia parte de outros projetos com isso t
 - mint.com;
 - MPU;
 - Detran DF;
-<p style="text-indent: 20px; align = "justify">
+<p align = "justify">
 Entre esses a equipe escolheu o <a href="https://www.findglocal.com/"><strong>Findglocal</strong></a>
 </p>
 
 
 
 ## 2. Metodologia  
-<p style="text-indent: 20px; align = "justify">
+<p align = "justify">
 Todos os membros presentes na reunião queriam trabalhar com Scrum ou kanban. Foram levantados os pontos fortes de cada técnica do ponto de vista da equipe, como visto na tabela 01.
 </p>
 
@@ -30,21 +30,21 @@ Todos os membros presentes na reunião queriam trabalhar com Scrum ou kanban. Fo
 
 <figcaption> <p  align = "center">Tabela 1 -Vantagens e desvantagens das tecnicas Scrum e Kanban</figcaption> </p>
 
-<p style="text-indent: 20px; align = "justify">
+<p align = "justify">
 Como o kanban não apresentou nenhuma desvantagem o grupo teve a preferência de sua escolha.
 </p>
 
-<p style="text-indent: 20px; align = "justify">
+<p align = "justify">
 O método kanban é um sistema ágil e visual para gestão de tafefas. Ele é divido em 3 grupos: fazer,fazendo e feito [1].
 </p>
-<p style="text-indent: 20px; align = "justify">
+<p align = "justify">
 O <a href="https://trello.com/invite/b/s12YKWmv/527876c609dd986d7c9343b09588115d/kanban-template">trello</a> será nossa ferramenta kanban.
 </p>
 
 
 
 ### 2.1  Cronograma de atividades 
-<p style="text-indent: 20px; align = "justify"> Conforme as datas estipuladas pelo professor foi levantado um cronograma das atividades a serem realizadas. Vale salientar que as datas podem ser alteradas ao decorrer do tempo.</p>
+<p align = "justify"> Conforme as datas estipuladas pelo professor foi levantado um cronograma das atividades a serem realizadas. Vale salientar que as datas podem ser alteradas ao decorrer do tempo.</p>
 
 <center>
 
@@ -67,7 +67,7 @@ O <a href="https://trello.com/invite/b/s12YKWmv/527876c609dd986d7c9343b09588115d
 
 ## 3  Disponibilidade dos integrantes
 
-<p style="text-indent: 20px; align = "justify"> A figura 01 apresenta o quadro de disponbilidade geral dos integrantes do grupo.</p>
+<p align = "justify"> A figura 01 apresenta o quadro de disponbilidade geral dos integrantes do grupo.</p>
 <img width="800x"  src="../assets/Heatmap/disponibildiade.png" alt="disponibildiade">
 
 <figcaption>Figura 01 - Quadro de disponibilidade geral dos integrantes </figcaption>
@@ -75,7 +75,7 @@ O <a href="https://trello.com/invite/b/s12YKWmv/527876c609dd986d7c9343b09588115d
 <p><strong>Obs</strong>: pode sofrer alteração ao longo do semestre.</p>
 
 ## 4. Processo de design
-<p style="text-indent: 20px; align = "justify"> O processo de design a ser seguido será o ciclo de vida de mayhew, que é um ciclo de vida relacionado a usabilidade, sendo que ele reúne e organiza diferentes atividades no campo da interação homem-computador para orientar o trabalho do designer para uma boa solução interativa. Esse ciclo de vida possui as seguintes fases: análise de requisitos, design/avaliação/desenvolvimento e instalação [3].
+<p align = "justify"> O processo de design a ser seguido será o ciclo de vida de mayhew, que é um ciclo de vida relacionado a usabilidade, sendo que ele reúne e organiza diferentes atividades no campo da interação homem-computador para orientar o trabalho do designer para uma boa solução interativa. Esse ciclo de vida possui as seguintes fases: análise de requisitos, design/avaliação/desenvolvimento e instalação [3].
 </p>
 
 - <p align = "justify"> <strong> Análise de requisitos:</strong> Nessa fase as metas de usabilidade são identificadas tendo como base os perfis do usuário, análise de tarefas, possibilidades e limitações da plataforma na qual o sistema será executado e princípios gerais de design IHC [3]. </p>
