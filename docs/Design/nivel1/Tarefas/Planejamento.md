@@ -55,18 +55,19 @@ Vale informar que as informações obtidas por meio deste questionário serão t
 |01| Você já utilizou o site FindGlocal?|Sim () <br> Não() |
 |02| Qual a frequência que você usa o FindGlocal?|Uma vez ao dia () <br> Uma vez na semana() <br> Mais de uma vez na semana() <br> Pelo menos uma vez ao mês() <br> Quase nunca () |
 |03| Você é qual tipo de usuário do FindGlocal|  Usuário que busca estabelecimento () <br> Usuário que tem loja cadastrado no site () <br> Usuário que busca estabelecimento e tem loja cadastrada no site ()|
-|07| Se na pergunta 03 o entrevistado for um usuário que busca estabelecimento ou usuário que busca estabelecimento e tem loja cadastrada no site , Qual tipo de loja você procura? | Pergunta aberta |
-|08| Se na pergunta 03 o entrevistado for um usuário que busca estabelecimento ou usuário que busca estabelecimento e tem loja cadastrada no site , porque você utiliza o FindGlocal para esse fim ou invés do Google? | Pergunta aberta |
-|09| Se na pergunta 03 o entrevistado for um usuário que tem loja cadastrado no site ou usuário que busca estabelecimento e tem loja cadastrada no site , Qual tipo de loja você cadastrou no site? | Pergunta aberta |
-|10| Se na pergunta 03 o entrevistado for um usuário que tem loja cadastrado  ou usuário que busca estabelecimento e tem loja cadastrada no site , porque você utiliza o FindGlocal para publicar sua loja? | Pergunta aberta |
-|11| A situação ilustrada no análise de tarefas condiz com a realidade?| Sim () <br> Não() <br> Precisa melhorar()|
-|12| Possui alguma sugestão de melhoria, baseado na pergunta anterior| Pergunta aberta|
-|13| O fluxo do análise de tarefas está feito de maneira correta| Sim ()<br> Não() <br> Precisa melhorar()|
-|14| Possui alguma sugestão de melhoria, baseado na pergunta anterior| Pergunta aberta|
+|04| Se na pergunta 03 o entrevistado for um usuário que busca estabelecimento ou usuário que busca estabelecimento e tem loja cadastrada no site , Qual tipo de loja você procura? | Pergunta aberta |
+|05| Se na pergunta 03 o entrevistado for um usuário que busca estabelecimento ou usuário que busca estabelecimento e tem loja cadastrada no site , porque você utiliza o FindGlocal para esse fim ou invés do Google? | Pergunta aberta |
+|06| Se na pergunta 03 o entrevistado for um usuário que tem loja cadastrado no site ou usuário que busca estabelecimento e tem loja cadastrada no site , Qual tipo de loja você cadastrou no site? | Pergunta aberta |
+|07| Se na pergunta 03 o entrevistado for um usuário que tem loja cadastrado  ou usuário que busca estabelecimento e tem loja cadastrada no site , porque você utiliza o FindGlocal para publicar sua loja? | Pergunta aberta |
+|08| A situação ilustrada no análise de tarefas condiz com a realidade?| Sim () <br> Não() <br> Precisa melhorar()|
+|09| Possui alguma sugestão de melhoria, baseado na pergunta anterior| Pergunta aberta|
+|10| O fluxo do análise de tarefas está feito de maneira correta| Sim ()<br> Não() <br> Precisa melhorar()|
+|11| Possui alguma sugestão de melhoria, baseado na pergunta anterior| Pergunta aberta|
 
 <figcaption> Tabela 01 - Quadro Perguntas e opções </figcaption>
 
 </center>
+
 ## 6. Conclusão
 <p align = "justify">Dessa forma, após a avaliação, o avaliador deve fazer um relatório curto e objetivo identificando os problemas identificados e seus respectivos locais, assim como, sugestões de melhorias.
 </p>
