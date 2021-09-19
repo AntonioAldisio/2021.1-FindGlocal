@@ -2,29 +2,19 @@
 
 ## 1. Introdução
 
-<p align = "justify">Storyboard é um exemplo de protótipo de baixa finalidade que é representado por desenhos que descrevem como o usuário pode avançar em suas tarefas utilizando o software/produto que está sendo desenvolvido, sendo que é muito importante utilizar na atividade de design para correção de erros anteriores e para ter mais ideias sobre o produto. </p>
-<p align = "justify">Após a realização do storyboard é de extrema importância que se realize uma avaliação para verificar se aquele conjunto de de escolhas fazem sentido para quem vai utilizar o sistema posteriormente. </p>
+<p align = "justify">O protótipo de papel é um exemplo de protótipo de baixa finalidade que é muito usado por ser rápido de fazer e possuir baixo custo em sua produção, sendo que auxilia a encontrar erros relacionados a usabilidade.Além disso, é muito importante utilizar na atividade de design para correção de erros e para consolidação de ideias sobre o produto. </p>
+<p align = "justify">Após a realização do protótipo em papel é importante que se realize uma avaliação para verificar se não existem problemas de usabilidade na interface. </p>
 
 ## 2. Objetivos
 
-<p align = "justify">Desse modo, temos como objetivo guiar o avaliador em sua avaliação dos storyboards de forma mais detalhada possível.
+<p align = "justify">Desse modo, temos como objetivo guiar o avaliador em sua avaliação do protótipo de papel de forma mais detalhada possível.
 </p>
 
-## 3. Metodologia
-<p align = "justify">O método para esta avaliação será o da investigação usando a técnica de entrevista, sendo que conterá um grupo de perguntas que serão feitas aos entrevistados, com a finalidade de verificar se os storyboards são condizentes com o que se espera, coletando também opniões e sugerindo melhorias se possível.
+## 3. Metodologia e Tarefas
+<p align = "justify">O método para esta avaliação será o da investigação, sendo que deverão ter de 5 a 12 usuários para realizarem as tarefas propostas a seguir, assim como, seguir os passos de preparação, coleta de dados e interpretação, consolidação dos resultados e relato dos resultados.
 </p>
 
-## 4. Avaliação
-<p align = "justify">A avaliação conterá será uma série de perguntas para os entrevistados para verificar se o storyboard atende a realidade dos usuários corretamente, verificando possíveis erros. 
-</p>
-
-### 4.1 Participantes 
-
-
-<p align = "justify">O perfil dos entrevistados naturalmente devem possuir o mesmo <a href="/2021.1-FindGlocal/requisitos/perfil_do_usuário/" >perfil dos usuários do FindGlocal</a>, porque dessa forma a análise sairá mais assertiva. Logo, os perfis que correspondem são pessoas que moram na cidade e/ou trabalham no centro, pequenos empresários, pessoas de todas as faixas etárias. Sendo assim, deve-se procurar pessoas com esse perfil e combinar o horário para entrevista online.
-</p>
-
-### 4.2 Termo de consentimento
+### 3.1. Termo de consentimento
 <p align = "justify">
 O modelo adotado do termo de consentimento segue abaixo:
 </p>
@@ -44,39 +34,70 @@ o sucesso da pesquisa.
 Vale informar que as informações obtidas por meio deste questionário serão tratadas conforme a Lei n.º 13.709/2018 (Lei Geral de Proteção de Dados - LGPD), de modo a  proteger os dados dos entrevistados, garantindo sua integridade, privacidade, segurança e transparência das informações coletados.
 </p>
 
-## 5. Roteiro
-<p align = "justify">É recomendado seguir um questionário com perguntas abertas e fechadas. 
+### 3.2. Preparação
+<p align = "justify">Na preparação são definidas as tarefas que os participantes realizarão, o perfil dos participantes e a criação do protótipo, nesse contexto, serão seguidas pelos participantes as seguintes tarefas: Login/cadastro, buscar loja e denunciar anúncio. Além disso, O perfil dos entrevistados naturalmente devem possuir o mesmo <a href="/2021.1-FindGlocal/requisitos/perfil_do_usuário/" >perfil dos usuários do FindGlocal</a>, porque dessa forma a análise sairá mais assertiva. Logo, os perfis que correspondem são pessoas que moram na cidade e/ou trabalham no centro, pequenos empresários, pessoas de todas as faixas etárias. Sendo assim, deve-se procurar pessoas com esse perfil. 
+</p>
+<center>
+![](pesquisaLogin.jpeg)
+<figcaption> Figura 01 - pesquisa e opção de login </figcaption>
+</center>
 
+<center>
+![](passoIdenuncia.jpeg)
+<figcaption> Figura 02 - passo 1 para denunciar anúncio após localiza-lo </figcaption>
+</center>
+<center>
+![](passoIIdenuncia.jpeg)
+<figcaption> Figura 03 - passo 2 para denunciar anúncio após localizar-lo </figcaption>
+</center>
+
+<center>
+![](cadastroI.jpeg)
+<figcaption> Figura 04 - passo 1 para cadastro e login </figcaption>
+</center>
+<center>
+![](cadastroII.jpeg)
+<figcaption> Figura 05 - passo 2 para cadastro e login </figcaption>
+</center>
+
+
+
+### 3.2 Coleta e Interpretação dos dados
+<p align = "justify">Cada usuário deve interagir com a interface realizando as tarefas citadas acima, sendo que o avaliador deve listar os problemas encontrados, assim como, arrumar protótipo em caso de problemas simples, sendo que deve ser realizada por dois avaliadores, um simulando o comportamento do sistema e o outro analisando a experiência de uso e no final anotar os problemas encontrados.
 </p>
 
 <center>
 
 |ID|Perguntas |Opções | 
 |:--:|:--:|:--:|
-|01| Você já utilizou o site FindGlocal?|Sim () <br> Não() |
-|02| Qual a frequência que você usa o FindGlocal?|Uma vez ao dia () <br> Uma vez na semana() <br> Mais de uma vez na semana() <br> Pelo menos uma vez ao mês() <br> Quase nunca () |
-|03| Você é qual tipo de usuário do FindGlocal|  Usuário que busca estabelecimento () <br> Usuário que tem loja cadastrado no site () <br> Usuário que busca estabelecimento e tem loja cadastrada no site ()|
-|04| Você conhece a técnica storyboard ?| Sim () <br> Não() |
-|05| Se pergunta anterior for não, você quer que apresente a técnica storyboard ? | Sim () <br> Não() <br> Não se aplica () |
-|06| Se pergunta anterior for sim, você tem conhecimento mínimo técnica storyboard ?| Sim () <br> Não() <br> Não se aplica ()|
-|07| Se na pergunta 03 o entrevistado for um usuário que busca estabelecimento ou usuário que busca estabelecimento e tem loja cadastrada no site , Qual tipo de loja você procura? | Pergunta aberta |
-|08| Se na pergunta 03 o entrevistado for um usuário que busca estabelecimento ou usuário que busca estabelecimento e tem loja cadastrada no site , porque você utiliza o FindGlocal para esse fim ou invés do Google? | Pergunta aberta |
-|09| Se na pergunta 03 o entrevistado for um usuário que tem loja cadastrado no site ou usuário que busca estabelecimento e tem loja cadastrada no site , Qual tipo de loja você cadastrou no site? | Pergunta aberta |
-|10| Se na pergunta 03 o entrevistado for um usuário que tem loja cadastrado  ou usuário que busca estabelecimento e tem loja cadastrada no site , porque você utiliza o FindGlocal para publicar sua loja? | Pergunta aberta |
-|11| A situação ilustrada no storyboard condiz com a realidade?| Sim () <br> Não() <br> Precisa melhorar()|
-|12| Possui alguma sugestão de melhoria, baseado na pergunta anterior| Pergunta aberta|
-|13| O fluxo do storyboard está feito de maneira correta| Sim ()<br> Não() <br> Precisa melhorar()|
-|14| Possui alguma sugestão de melhoria, baseado na pergunta anterior| Pergunta aberta|
-
-<figcaption> Tabela 01 - Quadro Perguntas e opções </figcaption>
+|01|O quanto você já usou o FindGlocal para achar estabelecimentos|0() <br>1-2() <br>3-10() <br> 10+()|
+|02|Agora avalie o grau de dificuldade para realizar as tarefas propostas|1-Muito complicado() <br>2-Difícil() <br>3-Normal() <br>4-Fácil() <br>5-Muito fácil|
+|03|Algum erro foi cometido na realização das tarefas propostas? se sim, quais?|Pergunta aberta|
+|04|Você conseguiu concluir todas as tarefas propostas| Sim () <br> Não() |
+|05|Posssui alguma sugestão de melhoria? se sim, quais?|Pergunta aberta|
+<figcaption> Tabela 1 - Perguntas que devem ser feitas aos participantes</figcaption>
 
 </center>
 
-## 6. Conclusão
-<p align = "justify">Dessa forma, após a avaliação, o avaliador deve fazer um relatório curto e objetivo identificando os problemas identificados e seus respectivos locais, assim como, sugestões de melhorias.
+### 3.3 Consolidação dos Resultados
+<p align = "justify">Após as etapas anteriores, os avaliadores devem analisar os erros que não foram possíveis se serem resolvidos no reprojeto quando acontecem problemas simples, sendo que a solução para esses erros tem a prioridade com base na relevância, logo os avaliadores devem levar isso em consideração e sugerir melhorias para que se chegue a uma melhor versão do protótipo.
 </p>
 
-<p align = "justify">O documento visa facilitar o processo de avaliação de storyboard, podendo ser modificado pelo avaliador em livre e espontânea vontade.
+### 3.4 Relato dos Resultados
+<p align = "justify">No final as seguintes coisas devem ser relatadas:
+</p>
+* Os objetivos da avaliação;
+* Uma descrição do método de prototipação em papel;
+* A quantidade e o perfil de avaliadores e também dos participantes;
+* As tarefas que foram realizadas pelos usuários;
+* Uma lista de problemas de usabilidade corrigidos durante a de avaliação e reprojeto, descrevendo o local, fator prejudicado relacionado a usabilidade, descrição do problema, ajuste que foi feito no protótipo, indicar se o problema continuou;
+* Listar os problemas que ainda não foram corrigidos, indicando novamente o local, fator prejudicado relacionado a usabilidade, descrição do problema, prioridade e sugestão de melhoria;
+* Indicações de partes do sistema que podem ser mais bem elaboradas.
+
+
+## 6. Conclusão
+
+<p align = "justify">O documento visa facilitar o processo de avaliação do protótipo em papel, guiando de forma clara o avaliador para que não haja dúvidas durante o processo.
 </p>
 
 
@@ -89,8 +110,9 @@ BARBOSA, S.D.J.; SILVA, B.S. Interação Humano--Computador.Editora Campus- Else
 
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
-| 1.0 |09/09/2021 | Criação do site/Adição de conteúdo | Bianca Sofia e Antônio Aldísio |
-| 2.0  | 16/08/2021 | Adicionar novas perguntas <br> Incluir planjemaento do relato <br> Incluir consentimento  |Antônio Aldísio |
+| 1.0 |17/09/2021 | Criação do site/Adição de conteúdo | Bianca Sofia e Guilherme Brito |
+|1.1|18/09/2021| Criação dos protótipos e adição na página| Guilherme Brito e Bianca Sofia|
+
 
 </center>
 
