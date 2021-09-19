@@ -44,6 +44,21 @@ A avaliação do storyboard tem como objetivo fazer a validação do protótipo 
 
 </center>
 
+#### 3.1.3  Questionário da tarefa: Denúnciar um anúncio
+|Perguntas |Opções | 
+|:--:|:--:|
+|Você já utilizou o site FindGlocal?|Sim (X) <br> Não() |
+|A situação ilustrada no storyboard condiz com a realidade?| Sim (X) <br> Não() <br> Precisa melhorar()|
+|Possui alguma sugestão de melhoria, baseado na pergunta anterior| Condiz, o botão de denuncia fica bem destacado|
+|O fluxo do storyboard está feito de maneira correta| Sim (X)<br> Não() <br> Precisa melhorar()|
+|Possui alguma sugestão de melhoria, baseado na pergunta anterior| Não|
+
+<figcaption> Tabela 03 - Quadro Perguntas e opções referente ao questionário da tarefa 3 </figcaption>
+
+</center>
+
+
+
 ## Versionamento
 <center>
 
@@ -52,5 +67,6 @@ A avaliação do storyboard tem como objetivo fazer a validação do protótipo 
 | 1.0 |12/09/2021 | Criação da avaliação do storyboard | Vinicius Porto |
 | 2.0 | 13/08/2021 | Adequação da wiki | Antônio Aldísio |
 | 2.1 | 16/08/2021 | Revisão | Bianca Sofia |
+| 2.2 | 19/09/2021 | Adição da avaliação de mais uma tarefa | Vinicius Porto |
 
 </center>
