@@ -12,8 +12,7 @@ A avaliação do storyboard tem como objetivo fazer a validação do protótipo 
 
 ## 3. Avaliações
 
-### 3.1 Maria
-
+### 3.1 Lucas
 #### 3.1.1 Questionário da tarefa: Cadastro no site
 
 <center>
@@ -57,7 +56,7 @@ A avaliação do storyboard tem como objetivo fazer a validação do protótipo 
 
 </center>
 
-### 3.2 Lucas
+### 3.2 Maria
 
 #### 3.2.1 Questionário da tarefa: Cadastro no site
 
