@@ -20,6 +20,7 @@ nav:
     - Princípios Gerais de Projeto: 'requisitos/principios.md'
     - Metas de Usabilidade: 'requisitos/usabilidade.md'
     - Guia de Estilo: 'requisitos/guiadeestilo.md'
+  
   - Design, avaliação e desenvolvimento:
     - Nível 1:
       - Análise de Tarefas:
@@ -36,11 +37,12 @@ nav:
         - Planejamento do Relato dos Resultados : 'Design/nivel1/Storyboard/Planejamento_relato.md'
         - Relatos:
           - V01: 'Design/nivel1/Storyboard/Piloto_Relato1.md'
-          - V02: 'Design/nivel1/Tarefas/Relato2.md'
-
+          - V02: 'Design/nivel1/Storyboard/Relato2.md'
+    
+    - Nível 2:
       - Protótipo de Papel:
-        - Planejamento da Avaliação: 'Design/nivel1/Papel/Planejamento.md'
-        - Planejamento do Relato dos Resultados: 'Design/nivel1/Papel/Planejamento_relato.md'
+        - Planejamento da Avaliação: 'Design/nivel2/Papel/Planejamento.md'
+        - Planejamento do Relato dos Resultados: 'Design/nivel2/Papel/Planejamento_relato.md'
   - Atas de reunião:
     - Ata 01: 'Atas/Ata01.md'
     - Ata 02: 'Atas/Ata02.md'
