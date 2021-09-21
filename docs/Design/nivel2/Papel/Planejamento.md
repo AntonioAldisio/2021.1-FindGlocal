@@ -38,25 +38,28 @@ Vale informar que as informações obtidas por meio deste questionário serão t
 <p align = "justify">Na preparação são definidas as tarefas que os participantes realizarão, o perfil dos participantes e a criação do protótipo, nesse contexto, serão seguidas pelos participantes as seguintes tarefas: Login/cadastro, buscar loja e denunciar anúncio. Além disso, O perfil dos entrevistados naturalmente devem possuir o mesmo <a href="/2021.1-FindGlocal/requisitos/perfil_do_usuário/" >perfil dos usuários do FindGlocal</a>, porque dessa forma a análise sairá mais assertiva. Logo, os perfis que correspondem são pessoas que moram na cidade e/ou trabalham no centro, pequenos empresários, pessoas de todas as faixas etárias. Sendo assim, deve-se procurar pessoas com esse perfil. 
 </p>
 <center>
-![](pesquisaLogin.jpeg)
+<img width="800x"  src="/../../assets/imgs/pesquisaLogin.jpeg" alt="pesquisaLogin">
+
 <figcaption> Figura 01 - pesquisa e opção de login </figcaption>
 </center>
 
 <center>
-![](passoIdenuncia.jpeg)
+<img width="800x"  src="/../../assets/imgs/passoIdenuncia.jpeg" alt="passoIdenuncia">
 <figcaption> Figura 02 - passo 1 para denunciar anúncio após localiza-lo </figcaption>
 </center>
+
 <center>
-![](passoIIdenuncia.jpeg)
+<img width="800x"  src="/../../assets/imgs/passoIIdenuncia.jpeg" alt="passoIIdenuncia">
 <figcaption> Figura 03 - passo 2 para denunciar anúncio após localizar-lo </figcaption>
 </center>
 
 <center>
-![](cadastroI.jpeg)
+<img width="800x"  src="/../../assets/imgs/cadastroI.jpeg" alt="cadastroI">
+
 <figcaption> Figura 04 - passo 1 para cadastro e login </figcaption>
 </center>
 <center>
-![](cadastroII.jpeg)
+<img width="800x"  src="/../../assets/imgs/cadastroII.jpeg" alt="cadastroII">
 <figcaption> Figura 05 - passo 2 para cadastro e login </figcaption>
 </center>
 
@@ -112,6 +115,7 @@ BARBOSA, S.D.J.; SILVA, B.S. Interação Humano--Computador.Editora Campus- Else
 |--|--|--|--|
 | 1.0 |17/09/2021 | Criação do site/Adição de conteúdo | Bianca Sofia e Guilherme Brito |
 |1.1|18/09/2021| Criação dos protótipos e adição na página| Guilherme Brito e Bianca Sofia|
+|1.2|21/09/2021| Refatoração da página| Antonio Aldisio|
 
 
 </center>
