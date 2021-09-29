@@ -30,12 +30,13 @@ Afirmo que aceitei participar por minha própria vontade, sem receber qualquer
 incentivo financeiro ou ter qualquer ônus e com a finalidade exclusiva de colaborar para
 o sucesso da pesquisa. 
 </p>
+
 <p align = "justify">
 Vale informar que as informações obtidas por meio deste questionário serão tratadas conforme a Lei n.º 13.709/2018 (Lei Geral de Proteção de Dados - LGPD), de modo a  proteger os dados dos entrevistados, garantindo sua integridade, privacidade, segurança e transparência das informações coletados.
+</p>
 
 ### 3.2 Perfil
 <p align = "justify"> Na preparação são definidas as tarefas que os participantes realizarão, o perfil dos participantes e a criação do protótipo, nesse contexto, serão seguidas pelos participantes as seguintes tarefas: Login/cadastro, buscar loja e denunciar anúncio. Além disso, O perfil dos entrevistados naturalmente devem possuir o mesmo <a href="/2021.1-FindGlocal/requisitos/perfil_do_usuário/" >perfil dos usuários do FindGlocal</a>, porque dessa forma a análise sairá mais assertiva. Logo, os perfis que correspondem são pessoas que moram na cidade e/ou trabalham no centro, pequenos empresários, pessoas de todas as faixas etárias. Sendo assim, deve-se procurar pessoas com esse perfil. </p>
-
 
 
 ### 3.3 Coleta e Interpretação dos dados
@@ -50,7 +51,8 @@ Vale informar que as informações obtidas por meio deste questionário serão t
 |02|Agora avalie o grau de dificuldade para realizar as tarefas propostas|1-Muito complicado() <br>2-Difícil() <br>3-Normal() <br>4-Fácil() <br>5-Muito fácil|
 |03|Algum erro foi cometido na realização das tarefas propostas? se sim, quais?|Pergunta aberta|
 |04|Você conseguiu concluir todas as tarefas propostas| Sim () <br> Não() |
-|05|Posssui alguma sugestão de melhoria? se sim, quais?|Pergunta aberta|
+|05|Possui alguma sugestão de melhoria? se sim, quais?|Pergunta aberta|
+
 <figcaption> Tabela 1 - Perguntas que devem ser feitas aos participantes</figcaption>
 
 </center>
@@ -75,7 +77,6 @@ Vale informar que as informações obtidas por meio deste questionário serão t
 
 <p align = "justify">O documento visa facilitar o processo de avaliação do protótipo em papel, guiando de forma clara o avaliador para que não haja dúvidas durante o processo.
 </p>
-
 
 ## Bibliografia
 
