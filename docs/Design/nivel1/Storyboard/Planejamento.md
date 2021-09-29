@@ -11,7 +11,7 @@
 </p>
 
 ## 3. Metodologia
-<p align = "justify">O método para esta avaliação será o da investigação usando a técnica de entrevista, sendo que conterá um grupo de perguntas que serão feitas aos entrevistados, com a finalidade de verificar se os storyboards são condizentes com o que se espera, coletando também opniões e sugerindo melhorias se possível.
+<p align = "justify">O método para esta avaliação será o da investigação usando a técnica de entrevista, sendo que conterá um grupo de perguntas que serão feitas aos entrevistados, com a finalidade de verificar se os storyboards são condizentes com o que se espera, coletando também opiniões e sugerindo melhorias se possível.
 </p>
 
 ## 4. Avaliação
@@ -90,7 +90,7 @@ BARBOSA, S.D.J.; SILVA, B.S. Interação Humano--Computador.Editora Campus- Else
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 |09/09/2021 | Criação do site/Adição de conteúdo | Bianca Sofia e Antônio Aldísio |
-| 2.0  | 16/08/2021 | Adicionar novas perguntas <br> Incluir planjemaento do relato <br> Incluir consentimento  |Antônio Aldísio |
+| 2.0  | 16/08/2021 | Adicionar novas perguntas <br> Incluir planejamento do relato <br> Incluir consentimento  |Antônio Aldísio |
 
 </center>
 

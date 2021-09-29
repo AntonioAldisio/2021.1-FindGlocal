@@ -20,7 +20,7 @@ A avaliação do storyboard tem como objetivo fazer a validação dos <a href = 
 
 | Nome| Persona ? | Idade | Sexo | Grau de escolaridade | Cidade onde mora? |
 | :--:| :--:| :--:| :--:| :--:| :--:| 
-| Letícia Oliveira dos Santos | Não | 19 | Femenino| Superior incompleto| Brasília |
+| Letícia Oliveira dos Santos | Não | 19 | Feminino| Superior incompleto| Brasília |
 
 
 <figcaption> Tabela 01 - Descrição dos participantes  </figcaption>
@@ -45,7 +45,7 @@ A avaliação do storyboard tem como objetivo fazer a validação dos <a href = 
 |04| Você conhece a técnica storyboard ?| Sim   |
 |05| Se pergunta anterior for não, você quer que apresente a técnica storyboard ? | Não realizada  |
 |06| Se pergunta anterior for sim, você tem conhecimento mínimo técnica storyboard ?| Sim |
-|07| Se na pergunta 03 o entrevistado for um usuário que busca estabelecimento ou usuário que busca estabelecimento e tem loja cadastrada no site , Qual tipo de loja você procura? | Bares e resturantes |
+|07| Se na pergunta 03 o entrevistado for um usuário que busca estabelecimento ou usuário que busca estabelecimento e tem loja cadastrada no site , Qual tipo de loja você procura? | Bares e restaurantes |
 |08| Se na pergunta 03 o entrevistado for um usuário que busca estabelecimento ou usuário que busca estabelecimento e tem loja cadastrada no site , porque você utiliza o FindGlocal para esse fim ou invés do Google? | Não realizada  |
 |09| Se na pergunta 03 o entrevistado for um usuário que tem loja cadastrado no site ou usuário que busca estabelecimento e tem loja cadastrada no site , Qual tipo de loja você cadastrou no site? | Não realizada  |
 |10| Se na pergunta 03 o entrevistado for um usuário que tem loja cadastrado  ou usuário que busca estabelecimento e tem loja cadastrada no site , porque você utiliza o FindGlocal para publicar sua loja? | Pergunta aberta |

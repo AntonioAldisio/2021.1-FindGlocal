@@ -1,4 +1,4 @@
-# Planejamento do Relato de Avaliação do Protótipo de Papel
+# Planejamento do Relato de Avaliação do Protótipo de baixa fidelidade
 
 ## 1. Modelo do Relato
 

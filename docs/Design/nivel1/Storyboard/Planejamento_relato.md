@@ -9,7 +9,7 @@ Os avaliadores devem novamente endereçar as questões que motivaram o estudo, b
 </p>
 
 ### 1.2 Método da avaliação
-<p align = "justify">Os avaliadores devem aparesentar o método que utilizaram na avaliação.
+<p align = "justify">Os avaliadores devem apresentar o método que utilizaram na avaliação.
 </p>
 
 ### 1.3 Participantes

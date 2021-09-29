@@ -1,4 +1,4 @@
-# Planejamento da Avaliação do Protótipo de Papel
+# Planejamento da Avaliação do Protótipo de baixa fidelidade
 
 ## 1. Introdução
 

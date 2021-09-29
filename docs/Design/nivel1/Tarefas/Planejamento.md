@@ -87,7 +87,7 @@ BARBOSA, S.D.J.; SILVA, B.S. Interação Humano--Computador.Editora Campus- Else
 |--|--|--|--|
 | 1.0 |09/09/2021 | Criação do site/Adição de conteúdo | Bianca Sofia e Antônio Aldísio |
 | 1.1  | 15/08/2021 | revisão |Alvaro |
-| 2.0  | 16/08/2021 | Adicionar novas perguntas <br> Incluir planjemaento do relato <br> Incluir consentimento  |Antônio Aldísio |
+| 2.0  | 16/08/2021 | Adicionar novas perguntas <br> Incluir planejamento do relato <br> Incluir consentimento  |Antônio Aldísio |
 
 </center>
 

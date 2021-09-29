@@ -3,7 +3,7 @@
 ## 1. Objetivos e escopo da avaliação
 
 <p align = "justify">
-A avaliação da análise de tarefas busca validar as tarefas mencionadas nos documentos de <a href="/2021.1-FindGlocal/requisitos/HTA/" >HTA (Análise Hierárquica de Tarefas) </a> e <a href="/2021.1-FindGlocal/requisitos/CTT/" > CTT (Árvoce de Tarefas Concorrentes).</a> 
+A avaliação da análise de tarefas busca validar as tarefas mencionadas nos documentos de <a href="/2021.1-FindGlocal/requisitos/HTA/" >HTA (Análise Hierárquica de Tarefas) </a> e <a href="/2021.1-FindGlocal/requisitos/CTT/" > CTT (Árvore de Tarefas Concorrentes).</a> 
 </p>
 <p align = "justify">
 Essas análises tem como objetivo demonstrar as ações necessárias para realizar alguma tarefa dentro do sistema.
@@ -25,8 +25,8 @@ Essas análises tem como objetivo demonstrar as ações necessárias para realiz
 
 | Nome| Persona ? | Idade | Sexo | Grau de escolaridade | Cidade onde mora? |
 | :--:| :--:| :--:| :--:| :--:| :--:| 
-| Júlia Carvalho Mendonça | Não | 23| Femenino| Superior incompleto| Goiânia |
-| Maria |  Sim | 40| Femenino| ---| ---|
+| Júlia Carvalho Mendonça | Não | 23| Feminino| Superior incompleto| Goiânia |
+| Maria |  Sim | 40| Feminino| ---| ---|
 | Alberto  | Sim | 50| Masculino| ---| ---|
 
 <figcaption> Tabela 01 - Descrição dos participantes  </figcaption>
@@ -51,7 +51,7 @@ Essas análises tem como objetivo demonstrar as ações necessárias para realiz
 |01| Você já utilizou o site FindGlocal?|Sim|
 |02| Qual a frequência que você usa o FindGlocal?| Pelo menos uma vez ao mês |
 |03| Você é qual tipo de usuário do FindGlocal|  Usuário que busca estabelecimento|
-|04| Se na pergunta 03 o entrevistado for um usuário que busca estabelecimento ou usuário que busca estabelecimento e tem loja cadastrada no site , Qual tipo de loja você procura? | Bares e resturantes |
+|04| Se na pergunta 03 o entrevistado for um usuário que busca estabelecimento ou usuário que busca estabelecimento e tem loja cadastrada no site , Qual tipo de loja você procura? | Bares e restaurantes |
 |05| Se na pergunta 03 o entrevistado for um usuário que busca estabelecimento ou usuário que busca estabelecimento e tem loja cadastrada no site , porque você utiliza o FindGlocal para esse fim ou invés do Google? | Não realizada |
 |06| Se na pergunta 03 o entrevistado for um usuário que tem loja cadastrado no site ou usuário que busca estabelecimento e tem loja cadastrada no site , Qual tipo de loja você cadastrou no site? | Não realizada  |
 |07| Se na pergunta 03 o entrevistado for um usuário que tem loja cadastrado  ou usuário que busca estabelecimento e tem loja cadastrada no site , porque você utiliza o FindGlocal para publicar/buscar loja? | "Gosta de encontrar coisas diferentes. Com o google apresenta coisas a partir da inteligencia artificial que pensa que eu gosto" |
@@ -99,7 +99,7 @@ Essas análises tem como objetivo demonstrar as ações necessárias para realiz
 |08| A situação ilustrada no análise de tarefas condiz com a realidade?| Sim (x) <br> Não() <br> Precisa melhorar()|
 |09| Possui alguma sugestão de melhoria, baseado na pergunta anterior| Pergunta aberta |
 |10| O fluxo do análise de tarefas está feito de maneira correta| Sim ()<br> Não(x) <br> Precisa melhorar()|
-|11| Possui alguma sugestão de melhoria, baseado na pergunta anterior| A etapa de fazer logi após selecionar a loja para denpunciar é incomoda, deveria estar antes |
+|11| Possui alguma sugestão de melhoria, baseado na pergunta anterior| A etapa de fazer login após selecionar a loja para denunciar é incomoda, deveria estar antes |
 
 <figcaption> Tabela 01 - Resposta apresentadas pela a entrevistada Alberto</figcaption>
 
@@ -124,14 +124,14 @@ allowfullscreen></iframe>
 
 ## 5. Problemas encontrados
 
-<p align = "justify">Os participantes por meio de persnona não apontaram nenhum erro queanto a representação das atividades do fluxo das tarefas que lhes foram apresentadas. Porém, a entrevista Júlia relatou que o site apresenta uma interface confunsa.
+<p align = "justify">Os participantes por meio de persona não apontaram nenhum erro quanto a representação das atividades do fluxo das tarefas que lhes foram apresentadas. Porém, a entrevista Júlia relatou que o site apresenta uma interface confusa.
 <p align = "justify">
 </p>
 
 ## 6 Planejamento para reprojeto do sistema
 <p align = "justify">Um dos participantes acredita que deve ocorrer uma alteração na ordem da etapa 03 da tarefa 03 para se tornar mais intuitivo.
 </p>
-<p align = "justify"> Refatoração do layout do site seria uma saída de uma interface confunsa.</p>
+<p align = "justify"> Refatoração do layout do site seria uma saída de uma interface confusa.</p>
 
 
 
