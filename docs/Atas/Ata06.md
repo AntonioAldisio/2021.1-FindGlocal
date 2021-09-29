@@ -34,10 +34,10 @@ Divisão das tarefas
 
 | Bloco | Participantes| Revisor |
 |:--:|:--:|:--:|
-|Planejamento da Protótipo de Papel e planejamento relato dos resultados| Bianca Sofia <br> Guilherme Souza  | Álvaro  Gouvea|
-|Relato dos resultados da avaliação do Storyboard| Vinicius Porto <br> Antônio Aldísio| Bianca Sofia|
-|Relato dos resultados da avaliação do análise de tarefas| Álvaro  Gouvea <br> Antônio Aldísio| Vinicius Porto |
-| Melhorais comentadas na aula do dia 16/09 |  Antônio Aldísio | Guilherme Souza|
+| Planejamento da protótipo de alta fidelidade e planejamento relato dos resultados| Bianca Sofia <br> Guilherme Souza  | Álvaro  Gouvea|
+| Relato dos resultados da avaliação do protótipo de baixa fidelidade | Vinicius Porto <br> Álvaro  Gouvea| Bianca Sofia|
+| Melhorais comentadas pela monitora em relação a última entrega|  Antônio Aldísio |  --- |
+
 
 
 
