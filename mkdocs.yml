@@ -51,6 +51,46 @@ nav:
       - Planejamento da Avaliação: 'Design/nivel3/Planejamento.md'
       - Planejamento do Relato dos Resultados: 'Design/nivel3/Planejamento_relato.md'    
   
+  - Análise: 
+    - Verificação:
+      - Análise de requisitos:
+        - Perfil do usuário: 
+          - Questionário: 'analise/questionarios.md'
+          - Perfil do Usuário: 'analise/perfil_do_usuário.md'
+          - Personas: 'analise/personas.md'
+        - Análise de tarefas: 
+          - Análise Hierárquica de tarefas: 'analise/HTA.md'
+          - Árvore de tarefas concorrentes: 'analise/CTT.md'
+        - Princípios Gerais de Projeto: 'analise/principios.md'
+        - Metas de Usabilidade: 'analise/usabilidade.md'
+        - Guia de Estilo: 'analise/guiadeestilo.md'
+      - Design, avaliação e desenvolvimento:
+        - Nível 1:
+          - Análise de Tarefas:
+            - Planejamento da Avaliação: 'analise/nivel1/Tarefas/Planejamento.md'
+            - Planejamento do Relato dos Resultados: 'analise/nivel1/Tarefas/Planejamento_relato.md'
+            - Relatos:
+              - V01: 'analise/nivel1/Tarefas/Piloto_Relato1.md'
+              - V02: 'analise/nivel1/Tarefas/Relato2.md'
+          - Storyboard:
+            - Storyboard:  'analise/nivel1/Storyboard/Storyboard.md'
+            - Planejamento da Avaliação: 'analise/nivel1/Storyboard/Planejamento.md'
+            - Planejamento do Relato dos Resultados : 'analise/nivel1/Storyboard/Planejamento_relato.md'
+            - Relatos:
+              - V01: 'analise/nivel1/Storyboard/Piloto_Relato1.md'
+              - V02: 'analise/nivel1/Storyboard/Relato2.md'
+        - Nível 2:
+          - Protótipo de baixa fidelidade: 'analise/nivel2/baixa.md'
+          - Planejamento da Avaliação: 'analise/nivel2/Planejamento.md'
+          - Planejamento do Relato dos Resultados: 'analise/nivel2/Planejamento_relato.md'
+          - Relatos:
+            - V01: 'analise/nivel2/relato.md'
+        - Nível 3: 
+          - Protótipo de alta fidelidade: 'analise/nivel3/alta.md'
+          - Planejamento da Avaliação: 'analise/nivel3/Planejamento.md'
+          - Planejamento do Relato dos Resultados: 'analise/nivel3/Planejamento_relato.md'    
+      
+
   - Atas de reunião:
     - Ata 01: 'Atas/Ata01.md'
     - Ata 02: 'Atas/Ata02.md'
