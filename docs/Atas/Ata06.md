@@ -36,6 +36,7 @@ Divisão das tarefas
 |:--:|:--:|:--:|
 | Planejamento da protótipo de alta fidelidade e planejamento relato dos resultados| Bianca Sofia <br> Guilherme Souza  | Álvaro  Gouvea|
 | Relato dos resultados da avaliação do protótipo de baixa fidelidade | Vinicius Porto <br> Álvaro  Gouvea| Bianca Sofia|
+|Protótipo de Alta Fidelidade| Antonio Aldisio| --- | 
 | Melhorais comentadas pela monitora em relação a última entrega|  Antônio Aldísio |  --- |
 
 
