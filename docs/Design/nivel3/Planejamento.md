@@ -41,25 +41,33 @@ Vale informar que as informações obtidas por meio deste questionário serão t
 ### 3.2 Coleta e Interpretação dos dados
 <p align = "justify">Cada usuário deve interagir com a interface realizando as tarefas citadas acima, sendo que o avaliador deve listar os problemas encontrados, assim como, arrumar protótipo em caso de problemas simples, sendo que deve ser realizada por dois avaliadores, um simulando o comportamento do sistema e o outro analisando a experiência de uso e no final anotar os problemas encontrados. A primeira leva de perguntas será a seguinte:
 </p>
+
 <center>
+
 |ID|Perguntas |Opções | 
 |:--:|:--:|:--:|
 |01|O quanto você já usou o FindGlocal para achar estabelecimentos|0() <br>1-2() <br>3-10() <br> 10+()|
 |02|Qual seu objetivo no site?|1-Achar estabelecimentos() <br>2-Divulgar estabelecimento() <br>3-Ambos()|
 |03|Gosta da interface do site atualmente| Sim () <br> Não() |
 <figcaption> Tabela 1 - Perguntas que devem ser feitas aos participantes</figcaption>
+
 </center>
 
 <center>
+
 |ID|Perguntas |Opções | 
 |:--:|:--:|:--:|
 |01|Como você avalia a realização da tarefa de login e cadastro|1-Muito difícil() <br>2-Difícil() <br>3-Normal() <br>4-Fácil() <br>5-Extremamente fácil()|
 |02|Conseguiu finalizar o cadastro e login sem interrupções do sistema?|1-Sim() <br>2-Não() <br>3-Consegui, mas ocorreram erros no caminho()|
 |03|Posssui alguma sugestão de melhoria? se sim, quais?|Pergunta aberta|
+
+
 <figcaption> Tabela 2 - Perguntas que devem ser feitas aos participantes sobre o login e cadastro</figcaption>
+
 </center>
 
 <center>
+
 |ID|Perguntas |Opções | 
 |:--:|:--:|:--:|
 |01|Como você avalia a realização da tarefa buscar localização|1-Muito difícil() <br>2-Difícil() <br>3-Normal() <br>4-Fácil() <br>5-Extremamente fácil()|
@@ -71,12 +79,14 @@ Vale informar que as informações obtidas por meio deste questionário serão t
 
 
 <center>
+
 |ID|Perguntas |Opções | 
 |:--:|:--:|:--:|
 |01|Como você avalia a realização da tarefa de denunciar anúncio?|1-Muito difícil() <br>2-Difícil() <br>3-Normal() <br>4-Fácil() <br>5-Extremamente fácil()|
 |02|Conseguiu finalizar a denuncia sem interrupções do sistema?|1-Sim() <br>2-Não() <br>3-Consegui, mas ocorreram erros no caminho()|
 |03|Posssui alguma sugestão de melhoria? se sim, quais?|Pergunta aberta|
 <figcaption> Tabela 2 - Perguntas que devem ser feitas aos participantes sobre o login e cadastro</figcaption>
+
 </center>
 
 ### 3.3 Consolidação dos Resultados
