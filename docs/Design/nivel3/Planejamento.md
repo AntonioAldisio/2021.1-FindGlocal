@@ -110,8 +110,8 @@ BARBOSA, S.D.J.; SILVA, B.S. Interação Humano--Computador.Editora Campus- Else
 
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
-| 1.0 |30/08/2021 | Criação do site/Adição de conteúdo | Bianca Sofia e Guilherme Brito |
-| 1.1 |01/09/2021 | Revisão /Adição de conteúdo | Bianca Sofia e Guilherme Brito |
+| 1.0 |30/09/2021 | Criação do site/Adição de conteúdo | Bianca Sofia e Guilherme Brito |
+| 1.1 |01/10/2021 | Revisão /Adição de conteúdo | Bianca Sofia e Guilherme Brito |
 
 
 
