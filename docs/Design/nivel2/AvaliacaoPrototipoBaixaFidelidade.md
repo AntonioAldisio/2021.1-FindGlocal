@@ -14,33 +14,39 @@
 
 ### 3.1 Introdução
 <p align = "justify">
-    Como informado no planejamento da avaliação, a avaliação será sobre as tarefas de: Login/Cadastro, Buscar Loja e Denunciar Anúncio seguindo o questionário disponibilizado.
+    Como informado no planejamento da avaliação, a avaliação será sobre as tarefas de: Login/Cadastro, Buscar Loja e Denunciar Anúncio seguindo o questionário disponibilizado. O método utilizado na avaliação foi o da investigação por meio de questionários, o qual foi respondido por um usuário após o a interação com o protótipo.
+    O usuário pediu para que a avaliação não fosse gravada por questões de tempo.
 </p>
 
 ### 3.2 Respostas
 
+### 3.2.1 Primeiro usuário
+
+#### Perfil
+    **Nome:** Laura Gouvea
+    **Idade:** 25 anos
+    **Profissão:** Administradora
+
+
+#### Respostas
 <center>
 
 |ID|Perguntas |Opções | 
 |:--:|:--:|:--:|
-|01|O quanto você já usou o FindGlocal para achar estabelecimentos|0() <br>1-2() <br>3-10() <br> 10+()|
-|02|Agora avalie o grau de dificuldade para realizar as tarefas propostas|1-Muito complicado() <br>2-Difícil() <br>3-Normal() <br>4-Fácil() <br>5-Muito fácil|
-|03|Algum erro foi cometido na realização das tarefas propostas? se sim, quais?|Pergunta aberta|
-|04|Você conseguiu concluir todas as tarefas propostas| Sim () <br> Não() |
-|05|Possui alguma sugestão de melhoria? se sim, quais?|Pergunta aberta|
+|01|O quanto você já usou o FindGlocal para achar estabelecimentos|0(x) <br>1-2() <br>3-10() <br> 10+()|
+|02|Agora avalie o grau de dificuldade para realizar as tarefas propostas|1-Muito complicado() <br>2-Difícil() <br>3-Normal() <br>4-Fácil(x) <br>5-Muito fácil|
+|03|Algum erro foi cometido na realização das tarefas propostas? se sim, quais?| Não ocorreu erro|
+|04|Você conseguiu concluir todas as tarefas propostas| Sim (x) <br> Não() |
+|05|Possui alguma sugestão de melhoria? se sim, quais?| Não possuiu sugestões |
 
-<figcaption> Tabela 1 - Perguntas que devem ser feitas aos participantes</figcaption>
+<figcaption> Tabela 1 - Respostas da avaliação </figcaption>
 
 </center>
 
-## 4. Relato dos Resultados
+## 4. Conclusão
 
 <p align = "justify">
-</p>
-
-## 5. Conclusão
-
-<p align = "justify">
+    Após a avaliação e o questionário com o usuário, foi possível entender que pelo protótipo de baixa fidelidade o sistema possui um molde simples e de fácil compreensão, fazendo com que a execução das tarefas seja rápida e eficaz.
 </p>
 
 ## Bibliografia
