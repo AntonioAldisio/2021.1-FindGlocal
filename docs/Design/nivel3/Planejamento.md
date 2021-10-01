@@ -1,17 +1,17 @@
-# Planejamento da Avaliação do Protótipo de Papel
+# Planejamento da Avaliação do Protótipo de Alta Fidelidade
 
 ## 1. Introdução
 
-<p align = "justify">O protótipo de papel é um exemplo de protótipo de baixa finalidade que é muito usado por ser rápido de fazer e possuir baixo custo em sua produção, sendo que auxilia a encontrar erros relacionados a usabilidade.Além disso, é muito importante utilizar na atividade de design para correção de erros e para consolidação de ideias sobre o produto. </p>
-<p align = "justify">Após a realização do protótipo em papel é importante que se realize uma avaliação para verificar se não existem problemas de usabilidade na interface. </p>
+<p align = "justify">O protótipo de alta fidelidade representa uma visão mais interativa do produto em questão, parecendo mais com a versão final do software, nesse contexto. Esse protótipo nos permite avaliar questões relacionadas a usabilidade com mais detalhes, sendo que auxilia a encontrar erros relacionados a isso.Além disso, é muito importante utilizar na atividade de design para correção de erros e para consolidação de ideias sobre o produto. </p>
+<p align = "justify">Após a realização do protótipo é importante que se realize uma avaliação para verificar se não existem problemas de usabilidade na interface, conferindo juntamente com os usuários do sistema se as escolhas fazem sentido.</p>
 
 ## 2. Objetivos
 
-<p align = "justify">Desse modo, temos como objetivo guiar o avaliador em sua avaliação do protótipo de papel de forma mais detalhada possível.
+<p align = "justify">Desse modo, temos como objetivo guiar o avaliador em sua avaliação do protótipo de alta fidelidade de forma mais detalhada possível, sendo que dessa forma obteremos melhores resultados.
 </p>
 
 ## 3. Metodologia e Tarefas
-<p align = "justify">O método para esta avaliação será o da investigação, sendo que deverão ter de 5 a 12 usuários para realizarem as tarefas propostas a seguir, assim como, seguir os passos de preparação, coleta de dados e interpretação, consolidação dos resultados e relato dos resultados.
+<p align = "justify">O método para esta avaliação será o da investigação através de uma entrevista no final após realizar as tarefas, sendo que deverão ter de 2 a 5 usuários para realizarem as tarefas propostas a seguir, assim como, seguir os passos de preparação, coleta de dados e interpretação, consolidação dos resultados e relato dos resultados.
 </p>
 
 ### 3.1. Termo de consentimento
@@ -35,62 +35,59 @@ Vale informar que as informações obtidas por meio deste questionário serão t
 </p>
 
 ### 3.2. Preparação
-<p align = "justify">Na preparação são definidas as tarefas que os participantes realizarão, o perfil dos participantes e a criação do protótipo, nesse contexto, serão seguidas pelos participantes as seguintes tarefas: Login/cadastro, buscar loja e denunciar anúncio. Além disso, O perfil dos entrevistados naturalmente devem possuir o mesmo <a href="/2021.1-FindGlocal/requisitos/perfil_do_usuário/" >perfil dos usuários do FindGlocal</a>, porque dessa forma a análise sairá mais assertiva. Logo, os perfis que correspondem são pessoas que moram na cidade e/ou trabalham no centro, pequenos empresários, pessoas de todas as faixas etárias. Sendo assim, deve-se procurar pessoas com esse perfil. 
+<p align = "justify">Na preparação são definidas as tarefas que os participantes farão, o perfil dos participantes e a criação do protótipo que estará disponível na outra aba, nesse contexto, serão seguidas pelos participantes as seguintes tarefas: Login/cadastro, buscar loja e denunciar anúncio. Além disso, O perfil dos entrevistados evidentemente possuem o mesmo <a href="/2021.1-FindGlocal/requisitos/perfil_do_usuário/" >perfil dos usuários do FindGlocal</a>, porque dessa forma a análise sairá mais detalhada. Logo, os perfis que correspondem são pessoas que moram na cidade e/ou trabalham no centro, pequenos empresários, pessoas de todas as faixas etárias. Sendo assim, deve-se procurar pessoas com esse perfil. 
 </p>
-<center>
-<img width="800x"  src="/../../assets/imgs/pesquisaLogin.jpeg" alt="pesquisaLogin">
-
-<figcaption> Figura 01 - pesquisa e opção de login </figcaption>
-</center>
-
-<center>
-<img width="800x"  src="/../../assets/imgs/passoIdenuncia.jpeg" alt="passoIdenuncia">
-<figcaption> Figura 02 - passo 1 para denunciar anúncio após localiza-lo </figcaption>
-</center>
-
-<center>
-<img width="800x"  src="/../../assets/imgs/passoIIdenuncia.jpeg" alt="passoIIdenuncia">
-<figcaption> Figura 03 - passo 2 para denunciar anúncio após localizar-lo </figcaption>
-</center>
-
-<center>
-<img width="800x"  src="/../../assets/imgs/cadastroI.jpeg" alt="cadastroI">
-
-<figcaption> Figura 04 - passo 1 para cadastro e login </figcaption>
-</center>
-<center>
-<img width="800x"  src="/../../assets/imgs/cadastroII.jpeg" alt="cadastroII">
-<figcaption> Figura 05 - passo 2 para cadastro e login </figcaption>
-</center>
-
-
 
 ### 3.2 Coleta e Interpretação dos dados
-<p align = "justify">Cada usuário deve interagir com a interface realizando as tarefas citadas acima, sendo que o avaliador deve listar os problemas encontrados, assim como, arrumar protótipo em caso de problemas simples, sendo que deve ser realizada por dois avaliadores, um simulando o comportamento do sistema e o outro analisando a experiência de uso e no final anotar os problemas encontrados.
+<p align = "justify">Cada usuário deve interagir com a interface realizando as tarefas citadas acima, sendo que o avaliador deve listar os problemas encontrados, assim como, arrumar protótipo em caso de problemas simples, sendo que deve ser realizada por dois avaliadores, um simulando o comportamento do sistema e o outro analisando a experiência de uso e no final anotar os problemas encontrados. A primeira leva de perguntas será a seguinte:
 </p>
-
 <center>
-
 |ID|Perguntas |Opções | 
 |:--:|:--:|:--:|
 |01|O quanto você já usou o FindGlocal para achar estabelecimentos|0() <br>1-2() <br>3-10() <br> 10+()|
-|02|Agora avalie o grau de dificuldade para realizar as tarefas propostas|1-Muito complicado() <br>2-Difícil() <br>3-Normal() <br>4-Fácil() <br>5-Muito fácil|
-|03|Algum erro foi cometido na realização das tarefas propostas? se sim, quais?|Pergunta aberta|
-|04|Você conseguiu concluir todas as tarefas propostas| Sim () <br> Não() |
-|05|Posssui alguma sugestão de melhoria? se sim, quais?|Pergunta aberta|
+|02|Qual seu objetivo no site?|1-Achar estabelecimentos() <br>2-Divulgar estabelecimento() <br>3-Ambos()|
+|03|Gosta da interface do site atualmente| Sim () <br> Não() |
 <figcaption> Tabela 1 - Perguntas que devem ser feitas aos participantes</figcaption>
+</center>
 
+<center>
+|ID|Perguntas |Opções | 
+|:--:|:--:|:--:|
+|01|Como você avalia a realização da tarefa de login e cadastro|1-Muito difícil() <br>2-Difícil() <br>3-Normal() <br>4-Fácil() <br>5-Extremamente fácil()|
+|02|Conseguiu finalizar o cadastro e login sem interrupções do sistema?|1-Sim() <br>2-Não() <br>3-Consegui, mas ocorreram erros no caminho()|
+|03|Posssui alguma sugestão de melhoria? se sim, quais?|Pergunta aberta|
+<figcaption> Tabela 2 - Perguntas que devem ser feitas aos participantes sobre o login e cadastro</figcaption>
+</center>
+
+<center>
+|ID|Perguntas |Opções | 
+|:--:|:--:|:--:|
+|01|Como você avalia a realização da tarefa buscar localização|1-Muito difícil() <br>2-Difícil() <br>3-Normal() <br>4-Fácil() <br>5-Extremamente fácil()|
+|02|Conseguiu finalizar a busca de estabelecimentos sem interrupções do sistema?|1-Sim() <br>2-Não() <br>3-Consegui, mas ocorreram erros no caminho()|
+|03|Você consegue buscar estabelecimentos pela barra de pesquisa do sistema?|1-Sim() <br>2-Não() <br>3-Consegui, mas ocorreram erros no caminho()|
+|04|Posssui alguma sugestão de melhoria? se sim, quais?|Pergunta aberta|
+<figcaption> Tabela 2 - Perguntas que devem ser feitas aos participantes sobre a tarefa de buscar localização</figcaption>
+</center>
+
+
+<center>
+|ID|Perguntas |Opções | 
+|:--:|:--:|:--:|
+|01|Como você avalia a realização da tarefa de denunciar anúncio?|1-Muito difícil() <br>2-Difícil() <br>3-Normal() <br>4-Fácil() <br>5-Extremamente fácil()|
+|02|Conseguiu finalizar a denuncia sem interrupções do sistema?|1-Sim() <br>2-Não() <br>3-Consegui, mas ocorreram erros no caminho()|
+|03|Posssui alguma sugestão de melhoria? se sim, quais?|Pergunta aberta|
+<figcaption> Tabela 2 - Perguntas que devem ser feitas aos participantes sobre o login e cadastro</figcaption>
 </center>
 
 ### 3.3 Consolidação dos Resultados
-<p align = "justify">Após as etapas anteriores, os avaliadores devem analisar os erros que não foram possíveis se serem resolvidos no reprojeto quando acontecem problemas simples, sendo que a solução para esses erros tem a prioridade com base na relevância, logo os avaliadores devem levar isso em consideração e sugerir melhorias para que se chegue a uma melhor versão do protótipo.
+<p align = "justify">Após as etapas anteriores, os avaliadores devem levantar os resultados encontrados nessa avaliação e também analisar os erros encontrados, sendo que a solução para esses erros tem a prioridade com base na relevância, logo os avaliadores devem levar isso em consideração e sugerir melhorias para que se chegue a uma melhor versão do protótipo.
 </p>
 
 ### 3.4 Relato dos Resultados
 <p align = "justify">No final as seguintes coisas devem ser relatadas:
 </p>
 * Os objetivos da avaliação;
-* Uma descrição do método de prototipação em papel;
+* Uma descrição do método de prototipação em alta fidelidade;
 * A quantidade e o perfil de avaliadores e também dos participantes;
 * As tarefas que foram realizadas pelos usuários;
 * Uma lista de problemas de usabilidade corrigidos durante a de avaliação e reprojeto, descrevendo o local, fator prejudicado relacionado a usabilidade, descrição do problema, ajuste que foi feito no protótipo, indicar se o problema continuou;
@@ -100,7 +97,7 @@ Vale informar que as informações obtidas por meio deste questionário serão t
 
 ## 6. Conclusão
 
-<p align = "justify">O documento visa facilitar o processo de avaliação do protótipo em papel, guiando de forma clara o avaliador para que não haja dúvidas durante o processo.
+<p align = "justify">O documento visa facilitar o processo de avaliação do protótipo de alta fidelidade, guiando de forma clara o avaliador para que não haja dúvidas durante o processo.
 </p>
 
 
@@ -113,9 +110,9 @@ BARBOSA, S.D.J.; SILVA, B.S. Interação Humano--Computador.Editora Campus- Else
 
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
-| 1.0 |17/09/2021 | Criação do site/Adição de conteúdo | Bianca Sofia e Guilherme Brito |
-|1.1|18/09/2021| Criação dos protótipos e adição na página| Guilherme Brito e Bianca Sofia|
-|1.2|21/09/2021| Refatoração da página| Antonio Aldisio|
+| 1.0 |30/08/2021 | Criação do site/Adição de conteúdo | Bianca Sofia e Guilherme Brito |
+| 1.1 |01/09/2021 | Revisão /Adição de conteúdo | Bianca Sofia e Guilherme Brito |
+
 
 
 </center>
