@@ -1,121 +1,82 @@
-# Princípios Gerais de Projeto
+# Verificação do artefato Princípios Gerais de Projeto
+
 
 ## 1. Introdução
-<p align = "justify">
-Os princípios e diretrizes são definidos com base em um conjunto de critérios essenciais em um projeto de Interação Humano-Computador.
-Vale reslatar que os princípios não devem nunca substituir as outras atividades de análise, design e avaliação. 
+<align="justify">
+O presente documento visa verificar o artefato de <a href = "2021.1-FindGlocal/requisitos/principios/">Princípios Gerais de Projeto</a>, afim de procurar quaisquer erros no modelo em termos de notação, processo ou procedimentos no Princípios Gerais de Projeto <a href="#Bibliografia">[1]</a></p>
 </p>
 
-<p align = "justify">
-Segundo Norman (1988), os princípios giram em torno dos seguintes tópico: 
-</p>
+## 2. Planejamento 
+<p  align="justify">Foi utilizado um checklist para a realização da Verificação:</p>
 
-- Correspondência com as expectativas dos usuários;
-- Simplicidade nas estruturas das tarefas;
-- Equilíibrio entre controle e liberdade do usuário;
-- Consistência e padronização;
-- Promovendo a eficiência do usuário;
-- Antecipação;
-- Conteúdo relevante e expressão adequada;
-- Projeto para erros;
+<center>
 
-## 2. Correspondência com as expectativas dos usuários
-<p align = "justify">
-O FindGlocal tem que se certificar de que o usuário consegue identificar os relacionamentos entre: 
-</p>
-
-- Intençōes e açōes possíveis no sistema;
-- Açōes e seus efeitos entre o estado real do sistema;
-
-<p align = "justify">
-O usuário, ao utilizar o sitema FindGlocal, busca informaçōes de fácil acesso e entendimento. Isso não acontece visto que o layout e a disposição das informações estão fora de padrões e não tem uma lei clara de como as informações aparecem.
-</p>
-
-## 3. Simplicidade nas estruturas das tarefas
-
-<p align = "justify">
-O FindGlocal deve sempre procurar reduzir as etapas para que a pessoa consiga realizar uma tarefa no sistema. Assim, reduzindo a quantidade de possiveis problemas e resolução dos mesmo.
-</p>
-
-<p align = "justify">
-A tarefa de cadastra loja no sistema exigem do usuário um grande número de etapas e busca no layout para realizar uma tarefa simples. Ele ,primeiramente, precisa localizar o login no final da página, ter um url atrelada ao facebook para depois inserir informaçōes do estabelecimento.
-</p>
+| ID| Tópico |
+|:--:|:--:|
+| 01 | O documento está gramaticalmente correto? |
+| 02 | A página está no padrão da wiki? |
+| 03 | Tem tabela de versionamento? |
+| 04 | Tem bibliografia? |
+| 05 | As legendas estão corretas? |
+| 06 | As técnicas estão corretas? | 
+| 07 | Tem o princípio correspondência com as expectativas dos usuários ? | 
+| 08 | Tem o princípio simplicidade nas estruturas das tarefas ? | 
+| 09 | Tem o princípio equilíbrio entre controle e liberdade do usuário ? | 
+| 10 | Tem o princípio consistência e padronização ? | 
+| 11 | Tem o princípio promovendo a eficiência do usuário ? | 
+| 12 | Tem o princípio antecipação ? | 
+| 13 | Tem o princípio projeto para erros ? | 
 
 
-## 4. Equilíibrio entre controle e liberdade do usuário
-
-<p align = "justify">
-O usuário deve ter a experiência de controle do sistema, porém é uma liberdade controlada. Essa liberade ajuda o usuário a compreensão do que fazer ou o caminho certo para as tarefas.
-</p>
-
-<p align = "justify">
-O sitema não propōem uma liberdade para o usuário, onde não existe um caminho claro para a realização das tarefas.
-</p>
 
 
-## 5. Consistência e padronização
 
-<p align = "justify">
-É de extrema importância para o sistema que exista uma padronização do layout, das funçōes, onde essa padronização visa criar uma experiência melhor para o usuário.
-</p>
+</center>
 
-<p align = "justify">
-Como já apresentando a dificuldade de cadastrar loja também implica sobre a consistência e padronização do sistema.
-</p>
+## 3. Verificação
 
-## 6. Promovendo a eficiência do usuário
+<center>
 
-<p align = "justify">
-A eficiência do usuário deve ser considerada em primeiro lugar e não a do computador. A lógica da divisão de tarefas, como são mostradas para o usuário, escolhas de símbolos e da linguagem do sistema podem pode ter um enorme impacto na eficiência do usuário.
-</p>
+| ID| Tópico | Análise |
+|:-:|--|:-:|
+| 01 | O documento está gramaticalmente correto? | (&#10006) |
+| 02 | A página está no padrão da wiki? | (&#10004) |
+| 03 | Tem tabela de versionamento? | (&#10004) |
+| 04 | Tem bibliografia? | (&#10004) |
+| 05 | As legendas estão corretas? | (&#10004) | 
+| 06 | As técnicas estão corretas? |  (&#10004) |
+| 07 | Tem o princípio correspondência com as expectativas dos usuários ? |  (&#10004) |
+| 08 | Tem o princípio simplicidade nas estruturas das tarefas ? |  (&#10004) |
+| 09 | Tem o princípio equilíbrio entre controle e liberdade do usuário ? |  (&#10004) |
+| 10 | Tem o princípio consistência e padronização ? |  (&#10004) |
+| 11 | Tem o princípio promovendo a eficiência do usuário ? |  (&#10004) |
+| 12 | Tem o princípio antecipação ? |  (&#10004) |
+| 13 | Tem o princípio projeto para erros ? |  (&#10004) |
+</center>
 
-<p align = "justify">
-Não é identificado uma eficiência do usuário no FindGlocal.
-</p>
+## 4. Conclusão
 
-## 7. Antecipação
-<p align = "justify">
-As aplicações devem tentar prever o que o usuário quer e precisa, em vez de esperar que os usuários busquem ou coletem informações ou invoquem ferramentas.
-</p>
-
-<p align = "justify">
-O FindGlocal tem apenas a barra de busca que tem o objetivo de antecipação, porém se quiser fazer uma busca vai refinada não é possivel, assim deixando o sistema travado e complicado de navegação.
-</p>
-
-## 8. Conteúdo relevante e expressão adequada
-
-<p align = "justify">
-O sistema deve ser conciso e direto em suas informações. Informações desnecessárias ou ambíguas devem ser evitadas.
+<p align="justify">
+Após a realização da verificação, percebeu-se que, o artefato princípios gerais de projeto
+ tem alguns pequenos erros de portugues. Além disso, o checklist o artefato não apresentou nenhuma outra necessidade de alteração.  
 </p>
 
 
-<p align = "justify">
-No sistema não foi identificado nenhuma ação que apresente um conteúdo relevante ou em uma expressão adequada.
+## 5. Acompanhamento
+
+<p align="justify">
+Os problemas encontrados durante a verificação foram corrigidos.
 </p>
 
-## 9. Projeto para erros
-
-<p align = "justify">
-Em um sistema Deve ser fácil reverter as operações feitas pelo usuário, e também é recomendável dificultar a realização de ações irreversíveis no sistema. Ajudar os usuários a reconhecerem e se recuperarem de erros, informando-lhe sobre o que ocorreu, as consequências disso e como reverter os resultados indesejados é de grande valia para um software.
-</p>
-
-<p align = "justify">
-A falta de padronização implica em um erro de projeto. A ausência de uma logica de mostrar as loja e não exisitir um filtro na busca são erros que dificulta o usuário a utilizar o sistema.
-</p>
-
-
-
-## Bibliografia <a id="Bibliografia"></a>
-[1] BARBOSA, Simone; SILVA, Bruno. Interação Humano-Computador. Rio de Janeiro – RJ: Elsevier Editora Ltda, 2010.
+## 6. Bibliografia <a id="Bibliografia"></a>
+<p align = "justify"> [1] SERRANO, Maurício; SERRANO, Milene. <strong>Requisitos - Aula 23</strong>. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA. </a> .</p>
 
 
 ## Versionamento
-
 <center>
 
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
-| 1.0 | 01/09/2021 | Criação do site | Antônio Aldísio |
-| 1.1 | 01/09/2021 | Adição de conteúdo | Antônio Aldísio |
+| 1.0 | 02/09/2021 | Criação da página/ Adição do conteúdo | Antônio Aldisio e  Sofia  Oliveira|
 
 </center>

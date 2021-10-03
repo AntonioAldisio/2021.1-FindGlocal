@@ -1,61 +1,68 @@
-# Análise de tarefas
+# Verificação do artefato Análise de tarefas - Árvore de tarefas concorrentes
 
-## 1.Introdução
-<p align = "justify">
-A Análise de Tarefas é utilizada para se ter um entendimento sobre qual é o trabalho dos usuários, como eles o realizam e por quê. Nesse tipo de análise, o trabalho é definido em termos dos objetivos que os usuários querem ou precisam atingir.
+
+## 1. Introdução
+<align="justify">
+O presente documento visa verificar o artefato de <a href = "2021.1-FindGlocal/requisitos/CTT/">Árvore de tarefas concorrentes</a>, afim de procurar quaisquer erros no modelo em termos de notação, processo ou procedimentos no Árvore de tarefas concorrentes <a href="#Bibliografia">[1]</a></p>
+</p>
+
+## 2. Planejamento 
+<p  align="justify">Foi utilizado um checklist para a realização da Verificação:</p>
+
+<center>
+
+| ID| Tópico |
+|:--:|:--:|
+| 01 | O documento está gramaticalmente correto? |
+| 02 | A página está no padrão da wiki? |
+| 03 | Tem tabela de versionamento? |
+| 04 | Tem bibliografia? |
+| 05 | As legendas estão corretas? |
+| 06 | As técnicas estão corretas? | 
+| 07 | As tarefas estão de acordo com a realidade? |
+
+
+</center>
+
+## 3. Verificação
+
+<center>
+
+| ID| Tópico | Análise |
+|:-:|--|:-:|
+| 01 | O documento está gramaticalmente correto? | (&#10006) |
+| 02 | A página está no padrão da wiki? | (&#10004) |
+| 03 | Tem tabela de versionamento? | (&#10004) |
+| 04 | Tem bibliografia? | (&#10004) |
+| 05 | As legendas estão corretas? | (&#10004) | 
+| 06 | As técnicas estão corretas? |  (&#10006) |
+| 07 | As tarefas estão de acordo com a realidade? |  (&#10004) |
+
+
+</center>
+
+## 4. Conclusão
+
+<p align="justify">
+De acordo, com o checklist o artefato não apresentou nenhuma necessidade de alteração. 
 </p>
 
 
-## 2. Árvore de tarefas concorrentes (CTT - Concur Task Trees) 
-<p align = "justify">
-Assim como o HTA o CTT também utiliza de uma estrutura hierárquica de tarefas 
-para conseguir reproduzir o fluxo de funcionamento de um sistema, o que o torna
-diferencial é a sua representação não estar limitada as tarefas diretamente
-executadas pelo usuário ou pelo sistema, mas também se valer de abstração de
-tarefas mais complexas para fragmentá-las e assim seguir o fluxo.
+## 5. Acompanhamento
+
+<p align="justify">
+Não necessitou de acompanhamento após essa etapa 
 </p>
 
-### 2.1 CTT 01 - Buscar Loja
-<center>
-
-<img width="450px" src="../../assets/imgs/CTT01.png" alt="CTT01">
-<figcaption>Figura 01 - CTT 01 Buscar loja </figcaption>
-  
-</center>
-
-### 2.2 CTT 02 - Cadastrar Loja
-<center>
-
-<img width="450px" src="../../assets/imgs/CTT02.png" alt="CTT02">
-<figcaption>Figura 02 - CTT 02 Buscar loja </figcaption>
-  
-</center>
-
-### 2.3 CTT 03 - Denúnciar Anúncio
-
-<center>
-
-<img width="450px" src="../../assets/imgs/CTT03.png" alt="CTT03">
-<figcaption>Figura 03 - CTT 02 Denunciar Anuncio </figcaption>
-
-</center>
-
-## Bibliografia <a id="Bibliografia"></a>
-<p align = "justify"> [1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. </p>
+## 6. Bibliografia <a id="Bibliografia"></a>
+<p align = "justify"> [1] SERRANO, Maurício; SERRANO, Milene. <strong>Requisitos - Aula 23</strong>. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA. </a> .</p>
 
 
 ## Versionamento
-
 <center>
 
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
-| 1.0 | 19/08/2021 | Criação do site | Antônio Aldísio |
-| 1.1 | 25/08/2021 | Acréscimo do conteúdo de HTA | Antônio Aldísio |
-| 1.3 | 25/08/2021 | Acréscimo do conteúdo de CTT | Álvaro  Gouvea |
-| 1.4 | 30/08/2021 | Revisado | Guilherme e Bianca Sofia |
-| 1.5 | 02/08/2021 | Separação de página | Antônio Aldísio |
-| 1.6 | 06/09/2021 | Acréscimo de Imagens de CTT | Álvaro  Gouvea |
-| 1.7 | 12/09/2021 | Correção de Divisões | Álvaro  Gouvea |
+| 1.0 | 02/09/2021 | Criação da página/ Adição do conteúdo | Antônio Aldisio/ Sofia  Oliveira |
 
 </center>

@@ -1,66 +1,68 @@
-# Questionário
+# Verificação do artefato questionário
+
+
 ## 1. Introdução
+<align="justify">
+O presente documento visa verificar o artefato de <a href = "2021.1-FindGlocal/requisitos/questionarios/">questionário</a>, afim de procurar quaisquer erros no modelo em termos de notação, processo ou procedimentos no questionário <a href="#Bibliografia">[1]</a></p>
+</p>
 
-<p align = "justify"> O questionário é uma técnica que permite a rápida obtenção de informações quantitativas e qualitativas de um público-alvo numeroso. Quando aplicada a uma amostra representativa do público, permite representar as opiniões de toda a população.</p>
-<p align = "justify">É uma técnica relativamente rápida e barata de ser aplicada e é muito útil quando a o público-alvo está disperso geograficamente.<a href="#Bibliografia">[1]</a><br></p>
+## 2. Planejamento 
+<p  align="justify">Foi utilizado um checklist para a realização da Verificação:</p>
 
-## 2. Metodologia
+<center>
 
-<p align = "justify">O questionário foi elaborado pelo membro  Guilherme e posteriormente revisado por Antônio Aldísio. O questionário possui perguntas relacionadas ao uso do aplicativo e perguntas genéricas com o intuito de descobrir o perfil dos usuários.</p>
-
-
-## 3. Resultado do Questionário
-<p align = "justify">O questionário foi aplicado entre os dias 20/08/2021 e 28/08/2021 e obteve 24 respostas. Vale resalta que nem todos os participantes responderam todas as perguntas.e Os dados obtidos podem ser analisados a seguir:</p>
-
-### 3.1. Seção Inicial
-#### Questão 1
-<img  src="../../assets/questionario/sexo.png" alt="questao 1">
-<figcaption>Figura 01 - Questão sobre o gênero do entrevistado</figcaption>
-
-#### Questão 2
-<img  src="../../assets/questionario/idade.png" alt="questao 2">
-<figcaption>Figura 02 - Questão sobre a idade do entrevistado</figcaption>
-
-#### Questão 3
-<img  src="../../assets/questionario/internet.png" alt="questao 3">
-<figcaption>Figura 03 - Questão se tem internet no celular</figcaption>
-
-#### Questão 4
-<img  src="../../assets/questionario/comer.png" alt="questao 4">
-<figcaption>Figura 04 - Questão de quantas vezes sai para comer</figcaption>
-
-#### Questão 5
-<img  src="../../assets/questionario/localTrabalho.png" alt="questao 5">
-<figcaption>Figura 05 - Questão  onde trabalha</figcaption>
-
-
-### 3.2. Seção 2 - Sobre o FindGlocal
-
-#### Questão 6
-<img  src="../../assets/questionario/findlocal.png" alt="questao 6">
-<figcaption>Figura 06 - Questão se conhece o site</figcaption>
-
-#### Questão 7
-<img  src="../../assets/questionario/Comercio.png" alt="questao 7">
-<figcaption>Figura 07 - Questão se tem comercio </figcaption>
-
-
-
-
-## 6.Bibliografia <a id="Bibliografia"></a>
-<p align = "justify"> [1] VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de Requisitos: Software Orientado ao Negócio. Rio de janeiro: Brasport, 2016.</p>
-
+| ID| Tópico |
+|:--:|:--:|
+| 01 | O documento está gramaticalmente correto? |
+| 02 | A página está no padrão da wiki? |
+| 03 | Tem tabela de versionamento? |
+| 04 | Tem bibliografia? |
+| 05 | As legendas estão corretas? |
+| 06 | As técnicas estão corretas? | 
+| 07 | Existe algum erro nos gráficos |
+| 08 | Existe alguma conclusão sobre o questionário?|
 
 </center>
 
-## Versionamento
+## 3. Verificação
 
+<center>
+
+| ID| Tópico | Análise |
+|:-:|--|:-:|
+| 01 | O documento está gramaticalmente correto? | (&#10004) |
+| 02 | A página está no padrão da wiki? | (&#10004) |
+| 03 | Tem tabela de versionamento? | (&#10004) |
+| 04 | Tem bibliografia? | (&#10004) |
+| 05 | As legendas estão corretas? | (&#10004) | 
+| 06 | As técnicas estão corretas? |  (&#10004) |
+| 07 | Existe algum erro nos gráficos | (&#10006) | 
+| 08 | Existe alguma conclusão sobre o questionário? | (&#10006) |
+
+</center>
+
+## 4. Conclusão
+
+<p align="justify">
+Após a realização da verificação, percebeu-se que, o artefato questionário tem um erro na figura 01 como dois grupos que não fazem sentindo na análise. Além disso é necessário criar uma conclusão relacionando os dados que foram encontrados no questionário.  
+</p>
+
+
+## 5. Acompanhamento
+
+<p align="justify">
+Os problemas encontrados durante a verificação foram corrigidos.
+</p>
+
+## 6. Bibliografia <a id="Bibliografia"></a>
+<p align = "justify"> [1] SERRANO, Maurício; SERRANO, Milene. <strong>Requisitos - Aula 23</strong>. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA. </a> .</p>
+
+
+## Versionamento
 <center>
 
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
-| 1.1 | 25/08/2021 | Acréscimo do conteúdo | Guilherme |
-| 1.2 | 25/08/2021 | Revisado | Antônio Aldísio |
-| 1.3 | 30/08/2021 | Organização de página | Antônio Aldísio |
+| 1.0 | 02/09/2021 | Criação da página/ Adição do conteúdo | Antônio Aldisio e  Sofia  Oliveira|
 
 </center>

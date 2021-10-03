@@ -1,44 +1,64 @@
-# Perfil do usuário
+# Verificação do artefato perfil do usuário
+
 
 ## 1. Introdução
-<p align = "justify">
-Nessa parte buscamos identificar perfis de usuário que pudessem vir a conhecer o site FindGLocal, o que eles realizam no site e o que os levaram até lá.
+<align="justify">
+O presente documento visa verificar o artefato de <a href = "2021.1-FindGlocal/requisitos/perfil_do_usuário/">perfil do usuário</a>, afim de procurar quaisquer erros no modelo em termos de notação, processo ou procedimentos no perfil do usuário <a href="#Bibliografia">[1]</a></p>
 </p>
 
-## 2. Objetivo
-<p align = "justify">
-Tem como objetivo analisar, com base nas repostas dos entrevistados, formar um perfil de usuário.
-</p>
-
-## 3. Coleta de dados
-<p align = "justify">
-Para coleta de dados, enviamos formulários para pessoas de diferentes realidades para que respondessem este formulário com informações que nos permitissem traçar seus perfis.
-</p>
-
-## 4. Perfil do usuário
-<p align = "justify">
-A partir dos dados coletados observamos as seguintes caractersticas dos usuário:
-</p>
-
-- Poucas pessoas conhece o site;
-- É utilizado por pessoas Adultas;
-- É uitlizado por pessoas que trabalham na cidade;
-- Pessoas que comem mais fora tem maior probailidade de conhecer o site;
-- Todos tem acesso a internet no celular;
-
-## Bibliografia <a id="Bibliografia"></a>
-<p align = "justify"> [1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. </p>
-
-
-## Versionamento
+## 2. Planejamento 
+<p  align="justify">Foi utilizado um checklist para a realização da Verificação:</p>
 
 <center>
 
+| ID| Tópico |
+|:--:|:--:|
+| 01 | O documento está gramaticalmente correto? |
+| 02 | A página está no padrão da wiki? |
+| 03 | Tem tabela de versionamento? |
+| 04 | Tem bibliografia? |
+| 05 | As legendas estão corretas? |
+| 06 | Tem uma descrição do perfil do usuário ? | 
+</center>
+
+## 3. Verificação
+
+<center>
+
+| ID| Tópico | Análise |
+|:-:|--|:-:|
+| 01 | O documento está gramaticalmente correto? | (&#10004) |
+| 02 | A página está no padrão da wiki? | (&#10004) |
+| 03 | Tem tabela de versionamento? | (&#10004) |
+| 04 | Tem bibliografia? | (&#10004) |
+| 05 | As legendas estão corretas? | (&#10004) | 
+| 06 | Tem uma descrição do perfil do usuário ? | (&#10004) | 
+
+
+</center>
+
+## 4. Conclusão
+
+<p align="justify">
+De acordo, com o checklist o artefato não apresentou nenhuma necessidade de alteração. 
+</p>
+
+
+## 5. Acompanhamento
+
+<p align="justify">
+Não necessitou de acompanhamento após essa etapa.
+</p>
+
+## 6. Bibliografia <a id="Bibliografia"></a>
+<p align = "justify"> [1] SERRANO, Maurício; SERRANO, Milene. <strong>Requisitos - Aula 23</strong>. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA. </a> .</p>
+
+
+## Versionamento
+<center>
 
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
-| 1.1 | 25/08/2021 | Acréscimo do conteúdo | Guilherme |
-| 1.2 | 25/08/2021 | Revisado | Antônio Aldísio |
-| 1.3 | 30/08/2021 | Organização de página | Antônio Aldísio |
+| 1.0 | 02/09/2021 | Criação da página/ Adição do conteúdo | Antônio Aldisio e  Sofia  Oliveira|
 
 </center>

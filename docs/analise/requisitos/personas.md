@@ -1,57 +1,72 @@
-# Personas
-# 1. Introdução
-w
-Uma persona é um personagem fictício, arquétipo hipotético de um grupo de usuários reais, criada para descrever um usuário típico (Cooper et al., 2007; Pruitt e Adlin, 2006; Cooper, 1999), logo as personas representam grupos de usuários do sistema, sendo que quanto mais específicas mais o sistema será fiel aos usuários finais representadas por essas personas.abaixo serão descritas persona primária, secundária e antipersona.
+# Verificação do artefato personas
+
+
+## 1. Introdução
+<align="justify">
+O presente documento visa verificar o artefato de <a href = "2021.1-FindGlocal/requisitos/personas/">personas</a>, afim de procurar quaisquer erros no modelo em termos de notação, processo ou procedimentos no personas <a href="#Bibliografia">[1]</a></p>
 </p>
 
-## 1.1 Persona Primária: Foco do design
+## 2. Planejamento 
+<p  align="justify">Foi utilizado um checklist para a realização da Verificação:</p>
 
 <center>
 
-<img width="450x"  src="../../assets/personas/Aspose.Words.55428600-7b29-412d-9c44-4997a593a47a.001.png" alt="a1">
-<figcaption>Figura 01 - Persona principal </figcaption>
+| ID| Tópico |
+|:--:|:--:|
+| 01 | O documento está gramaticalmente correto? |
+| 02 | A página está no padrão da wiki? |
+| 03 | Tem tabela de versionamento? |
+| 04 | Tem bibliografia? |
+| 05 | As legendas estão corretas? |
+| 06 | As técnicas estão corretas? | 
+| 07 | Tem persona primária ? | 
+| 08 | Tem persona secundária? |
+| 09 | Tem anti persona? | 
+| 10 | Todas as personas estão descritas ? | 
 
 </center>
 
+## 3. Verificação
 
 <center>
 
-<img width="450x"  src="../../assets/personas/Aspose.Words.55428600-7b29-412d-9c44-4997a593a47a.002.png" alt="a2">
-<figcaption>Figura 02 - Persona principal </figcaption>
+| ID| Tópico | Análise |
+|:-:|--|:-:|
+| 01 | O documento está gramaticalmente correto? | (&#10006) |
+| 02 | A página está no padrão da wiki? | (&#10004) |
+| 03 | Tem tabela de versionamento? | (&#10004) |
+| 04 | Tem bibliografia? | (&#10004) |
+| 05 | As legendas estão corretas? | (&#10004) | 
+| 06 | As técnicas estão corretas? |  (&#10004) |
+| 07 | Tem persona primária ? | (&#10004) |
+| 08 | Tem persona secundária? |  (&#10004) |
+| 09 | Tem anti persona? | (&#10004) |
+| 10 | Todas as personas estão descritas ? | (&#10004) |
 
 </center>
 
-## 1.2 Persona segundária
-<p align = "justify">
-Persona que usará a aplicação, mas não é o foco do design.
+## 4. Conclusão
+
+<p align="justify">
+Após a realização da verificação, percebeu-se que, o artefato personas tem alguns pequenos erros de portugues. Além disso, o checklist o artefato não apresentou nenhuma outra necessidade de alteração.  
 </p>
-<center>
 
-<img width="450x"  src="../../assets/personas/Aspose.Words.55428600-7b29-412d-9c44-4997a593a47a.003.png" alt="s3">
-<figcaption>Figura 03 - Persona segundária </figcaption>
 
-</center>
+## 5. Acompanhamento
 
-## 1.3 Antipersona: O sistema não é projetado para ela.
+<p align="justify">
+Os problemas encontrados durante a verificação foram corrigidos.
+</p>
 
-<center>
+## 6. Bibliografia <a id="Bibliografia"></a>
+<p align = "justify"> [1] SERRANO, Maurício; SERRANO, Milene. <strong>Requisitos - Aula 23</strong>. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA. </a> .</p>
 
-<img width="450x"  src="../../assets/personas/Aspose.Words.55428600-7b29-412d-9c44-4997a593a47a.004.png" alt="a4">
-<figcaption>Figura 03 - Anti Persona  </figcaption>
-
-</center>
-
-## Bibliografia <a id="Bibliografia"></a>
-<p align = "justify"> [1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. </p>
 
 ## Versionamento
-
 <center>
 
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
-| 1.1 | 25/08/2021 | Acréscimo do conteúdo | Bianca Sofia |
-| 1.2 | 25/08/2021 | Revisado | Álvaro  Gouvea |
-| 1.3 | 30/08/2021 | Organização de página | Antônio Aldísio |
+| 1.0 | 02/09/2021 | Criação da página/ Adição do conteúdo | Antônio Aldisio e  Sofia  Oliveira |
 
 </center>

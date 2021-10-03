@@ -1,73 +1,70 @@
-# Análise de tarefas
+# Verificação do artefato Análise de tarefas - Análise Hierárquica de Tarefas
 
-## 1.Introdução
-<p align = "justify">
-A Análise de Tarefas é utilizada para se ter um entendimento sobre qual é o trabalho dos usuários, como eles o realizam e por quê. Nesse tipo de análise, o trabalho é definido em termos dos objetivos que os usuários querem ou precisam atingir.
+
+## 1. Introdução
+<align="justify">
+O presente documento visa verificar o artefato de <a href = "2021.1-FindGlocal/requisitos/HTA/">Análise Hierárquica de Tarefas</a>, afim de procurar quaisquer erros no modelo em termos de notação, processo ou procedimentos no Análise Hierárquica de Tarefas <a href="#Bibliografia">[1]</a></p>
 </p>
 
-## 2. Análise Hierárquica de Tarefas ( HTA – Hierarchical Task Analysis)
+## 2. Planejamento 
+<p  align="justify">Foi utilizado um checklist para a realização da Verificação:</p>
 
-<p align = "justify">
-É um procedimento para aprender padrões usados nos fluxos de trabalho e
-a ordem das interações com a interface (GUI). A análise considera as
-maneiras pelas quais o usuário particiona as tarefas e as sequencia.
-Procedimento de decomposição de tarefas em subtarefas que podem ser
-analisadas usando a sequência lógica para execução.
-</p>
-
-
-<p align = "justify">
-"Uma hierarquia é uma organização de elementos que, de acordo com as
-relações de pré-requisito, descreve o caminho das experiências que um
-aprendiz deve seguir para alcançar qualquer comportamento único que
-pareça mais alto na hierarquia. (Seels & Glasgow, 1990, p. 94)".
-</p>
-
-
-### 2.1 HTA 01 - Buscar Loja
 <center>
 
-<img width="450x"  src="../../assets/imgs/HTA01.jpeg" alt="disponibildiade">
-<figcaption>Figura 01 - HTA 01 Buscar loja </figcaption>
+| ID| Tópico |
+|:--:|:--:|
+| 01 | O documento está gramaticalmente correto? |
+| 02 | A página está no padrão da wiki? |
+| 03 | Tem tabela de versionamento? |
+| 04 | Tem bibliografia? |
+| 05 | As legendas estão corretas? |
+| 06 | As técnicas estão corretas? | 
+| 07 | Existe algum quadro explicando HTA ? | 
+| 08 | As tarefas estão de acordo com a realidade? |
+
 
 </center>
 
-### 2.2 HTA 02 - Cadastrar Loja
+## 3. Verificação
 
-<center>                                                                                                                                            
+<center>
 
-<img width="450x"  src="../../assets/imgs/HTA02.jpeg" alt="disponibildiade">
-<figcaption>Figura 02 - HTA 02 Cadastrar loja </figcaption>
-                                                                           
+| ID| Tópico | Análise |
+|:-:|--|:-:|
+| 01 | O documento está gramaticalmente correto? | (&#10006) |
+| 02 | A página está no padrão da wiki? | (&#10004) |
+| 03 | Tem tabela de versionamento? | (&#10004) |
+| 04 | Tem bibliografia? | (&#10004) |
+| 05 | As legendas estão corretas? | (&#10004) | 
+| 06 | As técnicas estão corretas? |  (&#10006) |
+| 07 | Existe algum quadro explicando HTA ?| (&#10006) |
+| 08 | As tarefas estão de acordo com a realidade? |  (&#10004) |
+
+
 </center>
 
-### 2.3 HTA 03 - Denúnciar Anúncio
+## 4. Conclusão
 
-<center>                                                                                                                                            
-
-<img width="450x"  src="../../assets/imgs/HTA03.png" alt="disponibildiade">
-<figcaption>Figura 03 - HTA 03 Denunciar Anuncio </figcaption>
-                                                                           
-</center>
+<p align="justify">
+Após a realização da verificação, percebeu-se que, o artefato Análise Hierárquica de Tarefas tem erro na técnica, pois as figuras 01 e 02 não corresponde ao padrão que HTA pede. Além disso, tem a ausencia de quadros explicando as ações que podem ser tomadas nas figuras 01,02 e 03.
+</p>
 
 
-## Bibliografia <a id="Bibliografia"></a>
-<p align = "justify"> [1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. </p>
+## 5. Acompanhamento
+
+<p align="justify">
+Os problemas encontrados durante a verificação foram corrigidos.
+</p>
+
+## 6. Bibliografia <a id="Bibliografia"></a>
+<p align = "justify"> [1] SERRANO, Maurício; SERRANO, Milene. <strong>Requisitos - Aula 23</strong>. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA. </a> .</p>
 
 
 ## Versionamento
-
 <center>
 
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
-| 1.0 | 19/08/2021 | Criação do site | Antônio Aldísio |
-| 1.1 | 25/08/2021 | Acréscimo do conteúdo de HTA | Antônio Aldísio |
-| 1.3 | 25/08/2021 | Acréscimo do conteúdo de CTT | Álvaro  Gouvea |
-| 1.4 | 30/08/2021 | Revisado | Guilherme e Bianca Sofia |
-| 1.5 | 02/08/2021 | Separação de página | Antônio Aldísio |
-| 1.6 | 06/09/2021 | Acréscimo de Imagens de HTA | Álvaro  Gouvea |
-| 1.7 | 12/09/2021 | Correção de Divisões | Álvaro  Gouvea |
-
+| 1.0 | 02/09/2021 | Criação da página/ Adição do conteúdo | Antônio Aldisio e  Sofia  Oliveira|
 
 </center>
