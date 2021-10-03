@@ -21,14 +21,14 @@ Uma persona é um personagem fictício, arquétipo hipotético de um grupo de us
 
 </center>
 
-## 1.2 Persona segundária
+## 1.2 Persona secundária
 <p align = "justify">
 Persona que usará a aplicação, mas não é o foco do design.
 </p>
 <center>
 
 <img width="450x"  src="../../assets/personas/Aspose.Words.55428600-7b29-412d-9c44-4997a593a47a.003.png" alt="s3">
-<figcaption>Figura 03 - Persona segundária </figcaption>
+<figcaption>Figura 03 - Persona secundária </figcaption>
 
 </center>
 

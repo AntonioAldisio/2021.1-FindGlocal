@@ -12,7 +12,7 @@ Segundo Norman (1988), os princípios giram em torno dos seguintes tópico:
 
 - Correspondência com as expectativas dos usuários;
 - Simplicidade nas estruturas das tarefas;
-- Equilíibrio entre controle e liberdade do usuário;
+- Equilíbrio entre controle e liberdade do usuário;
 - Consistência e padronização;
 - Promovendo a eficiência do usuário;
 - Antecipação;
@@ -24,11 +24,11 @@ Segundo Norman (1988), os princípios giram em torno dos seguintes tópico:
 O FindGlocal tem que se certificar de que o usuário consegue identificar os relacionamentos entre: 
 </p>
 
-- Intençōes e açōes possíveis no sistema;
-- Açōes e seus efeitos entre o estado real do sistema;
+- Intenções e ações possíveis no sistema;
+- Ações e seus efeitos entre o estado real do sistema;
 
 <p align = "justify">
-O usuário, ao utilizar o sitema FindGlocal, busca informaçōes de fácil acesso e entendimento. Isso não acontece visto que o layout e a disposição das informações estão fora de padrões e não tem uma lei clara de como as informações aparecem.
+O usuário, ao utilizar o sistema FindGlocal, busca informações de fácil acesso e entendimento. Isso não acontece visto que o layout e a disposição das informações estão fora de padrões e não tem uma lei clara de como as informações aparecem.
 </p>
 
 ## 3. Simplicidade nas estruturas das tarefas
@@ -38,14 +38,14 @@ O FindGlocal deve sempre procurar reduzir as etapas para que a pessoa consiga re
 </p>
 
 <p align = "justify">
-A tarefa de cadastra loja no sistema exigem do usuário um grande número de etapas e busca no layout para realizar uma tarefa simples. Ele ,primeiramente, precisa localizar o login no final da página, ter um url atrelada ao facebook para depois inserir informaçōes do estabelecimento.
+A tarefa de cadastra loja no sistema exigem do usuário um grande número de etapas e busca no layout para realizar uma tarefa simples. Ele ,primeiramente, precisa localizar o login no final da página, ter um url atrelada ao facebook para depois inserir informações do estabelecimento.
 </p>
 
 
 ## 4. Equilíibrio entre controle e liberdade do usuário
 
 <p align = "justify">
-O usuário deve ter a experiência de controle do sistema, porém é uma liberdade controlada. Essa liberade ajuda o usuário a compreensão do que fazer ou o caminho certo para as tarefas.
+O usuário deve ter a experiência de controle do sistema, porém é uma liberdade controlada. Essa liberdade ajuda o usuário a compreensão do que fazer ou o caminho certo para as tarefas.
 </p>
 
 <p align = "justify">
@@ -56,7 +56,7 @@ O sitema não propōem uma liberdade para o usuário, onde não existe um caminh
 ## 5. Consistência e padronização
 
 <p align = "justify">
-É de extrema importância para o sistema que exista uma padronização do layout, das funçōes, onde essa padronização visa criar uma experiência melhor para o usuário.
+É de extrema importância para o sistema que exista uma padronização do layout, das funções, onde essa padronização visa criar uma experiência melhor para o usuário.
 </p>
 
 <p align = "justify">
@@ -100,7 +100,7 @@ Em um sistema Deve ser fácil reverter as operações feitas pelo usuário, e ta
 </p>
 
 <p align = "justify">
-A falta de padronização implica em um erro de projeto. A ausência de uma logica de mostrar as loja e não exisitir um filtro na busca são erros que dificulta o usuário a utilizar o sistema.
+A falta de padronização implica em um erro de projeto. A ausência de uma logica de mostrar as loja e não existir um filtro na busca são erros que dificulta o usuário a utilizar o sistema.
 </p>
 
 

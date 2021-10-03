@@ -39,7 +39,7 @@
 ## 7. Memorização
 <p align = "justify">
     A memorização se diz respeito a capacidade de um usuário lembrar-se dos passos para realizar determinada tarefa em um website, independendo do tempo que ele fique sem utilizar o sistema, sendo qual for a sua experiência com a tecnologia.
-    O FindGlocal tem uma grande capacidade de memorização devido ao seu design que é muito objetivo, o usuário não tem muitos passos para realizar sua busca por um estabelecimento, o que facilia muito a memorização de como se é feito o uso do site.
+    O FindGlocal tem uma grande capacidade de memorização devido ao seu design que é muito objetivo, o usuário não tem muitos passos para realizar sua busca por um estabelecimento, o que facilita muito a memorização de como se é feito o uso do site.
 </p>
 
 ## Bibliografia <a id="Bibliografia"></a>
