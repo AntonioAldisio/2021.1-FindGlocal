@@ -61,6 +61,6 @@ Os problemas encontrados durante a verificação foram corrigidos.
 
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
-| 1.0 | 02/09/2021 | Criação da página/ Adição do conteúdo | Antônio Aldisio |
+| 1.0 | 02/09/2021 | Criação da página/ Adição do conteúdo | Antônio Aldisio e Álvaro  Gouvea|
 
 </center>
