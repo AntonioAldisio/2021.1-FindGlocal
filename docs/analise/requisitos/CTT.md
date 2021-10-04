@@ -30,12 +30,12 @@ O presente documento visa verificar o artefato de <a href = "2021.1-FindGlocal/r
 
 | ID| Tópico | Análise |
 |:-:|--|:-:|
-| 01 | O documento está gramaticalmente correto? | (&#10006) |
+| 01 | O documento está gramaticalmente correto? | (&#10004) |
 | 02 | A página está no padrão da wiki? | (&#10004) |
 | 03 | Tem tabela de versionamento? | (&#10004) |
 | 04 | Tem bibliografia? | (&#10004) |
 | 05 | As legendas estão corretas? | (&#10004) | 
-| 06 | As técnicas estão corretas? |  (&#10006) |
+| 06 | As técnicas estão corretas? |  (&#10004) |
 | 07 | As tarefas estão de acordo com a realidade? |  (&#10004) |
 
 

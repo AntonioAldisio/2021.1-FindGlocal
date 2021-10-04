@@ -19,6 +19,7 @@ O presente documento visa verificar o artefato de <a href = "2021.1-FindGlocal/r
 | 04 | Tem bibliografia? |
 | 05 | As legendas estão corretas? |
 | 06 | Tem uma descrição do perfil do usuário ? | 
+
 </center>
 
 ## 3. Verificação
