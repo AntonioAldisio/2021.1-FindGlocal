@@ -53,17 +53,18 @@ nav:
   
   - Análise: 
     - Verificação:
+      - Introdução: 'analise/modelo.md'
       - Análise de requisitos:
         - Perfil do usuário: 
-          - Questionário: 'analise/questionarios.md'
-          - Perfil do Usuário: 'analise/perfil_do_usuário.md'
-          - Personas: 'analise/personas.md'
+          - Questionário: 'analise/requisitos/questionarios.md'
+          - Perfil do Usuário: 'analise/requisitos/perfil_do_usuário.md'
+          - Personas: 'analise/requisitos/personas.md'
         - Análise de tarefas: 
-          - Análise Hierárquica de tarefas: 'analise/HTA.md'
-          - Árvore de tarefas concorrentes: 'analise/CTT.md'
-        - Princípios Gerais de Projeto: 'analise/principios.md'
-        - Metas de Usabilidade: 'analise/usabilidade.md'
-        - Guia de Estilo: 'analise/guiadeestilo.md'
+          - Análise Hierárquica de tarefas: 'analise/requisitos/HTA.md'
+          - Árvore de tarefas concorrentes: 'analise/requisitos/CTT.md'
+        - Princípios Gerais de Projeto: 'analise/requisitos/principios.md'
+        - Metas de Usabilidade: 'analise/requisitos/usabilidade.md'
+        - Guia de Estilo: 'analise/requisitos/guiadeestilo.md'
       - Design, avaliação e desenvolvimento:
         - Nível 1:
           - Análise de Tarefas:
