@@ -5,7 +5,7 @@
 <p align = "justify">O protótipo de papel é um exemplo de protótipo de baixa finalidade que é muito usado por ser rápido de fazer e possuir baixo custo em sua produção, sendo que auxilia a encontrar erros relacionados a usabilidade.Além disso, é muito importante utilizar na atividade de design para correção de erros e para consolidação de ideias sobre o produto. </p>
 <p align = "justify">Após a realização do protótipo em papel é importante que se realize uma avaliação para verificar se não existem problemas de usabilidade na interface. </p>
 
-<p align = "justify"> Nas figuras 01,02,03,04 e 05 podemos ver o desenvolvimento do protótipo de baixa fidelidade.
+<p align = "justify"> Nas figuras 01,02,03,04 e 05 podemos ver o desenvolvimento do protótipo de baixa fidelidade.</p>
 
 <center>
 
@@ -35,12 +35,13 @@
 </center>
 
 
-
+## Versionamento
 
 <center>
 
 | Versão | Data | Modificação | Autor |
 |:--:|:--:|:--:|:--:|
 | 1.0  | 29/08/2021 | refatorção de página | Antônio Aldísio |
+| 1.1  |  06/10/2021 | Correção da wiki | Antônio Aldísio |
 
 </center>

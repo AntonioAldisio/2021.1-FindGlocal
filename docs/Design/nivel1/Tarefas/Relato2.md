@@ -124,18 +124,18 @@ allowfullscreen></iframe>
 
 ## 5. Problemas encontrados
 
-<p align = "justify">Os participantes por meio de persona não apontaram nenhum erro quanto a representação das atividades do fluxo das tarefas que lhes foram apresentadas. Porém, a entrevista Júlia relatou que o site apresenta uma interface confusa.
-<p align = "justify">
-</p>
+<p align = "justify">Os participantes por meio de persona não apontaram nenhum erro quanto a representação das atividades do fluxo das tarefas que lhes foram apresentadas. Porém, a entrevista Júlia relatou que o site apresenta uma interface confusa.</p>
 
-## 6 Planejamento para reprojeto do sistema
-<p align = "justify">Um dos participantes acredita que deve ocorrer uma alteração na ordem da etapa 03 da tarefa 03 para se tornar mais intuitivo.
-</p>
+## 6. Planejamento para reprojeto do sistema
+
+
+<p align = "justify">Um dos participantes acredita que deve ocorrer uma alteração na ordem da etapa 03 da tarefa 03 para se tornar mais intuitivo.</p>
 <p align = "justify"> Refatoração do layout do site seria uma saída de uma interface confusa.</p>
 
 
 
 ## Versionamento
+
 <center>
 
 | Versão | Data | Modificação | Autor |
@@ -144,6 +144,7 @@ allowfullscreen></iframe>
 | 1.1 |18/09/2021 | Entrevista com  Júlia Carvalho Mendonça(itens 3,4) | Antônio Aldísio |
 | 1.2 |19/09/2021 | Adição do conteúdo | Álvaro Gouvea |
 | 1.3 |21/09/2021 | Refatoração | Antônio Aldísio |
+| 1.4 |06/10/2021 | Correção da wiki | Antônio Aldísio |
 
 
 </center>

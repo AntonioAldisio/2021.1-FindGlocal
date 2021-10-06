@@ -6,14 +6,14 @@
 
 ## Integrantes 
 
+<center>
 
+| Fotos |Nome | Github |
+| :---: | :---:  | :---: |
+|<img width="150px" height = "140px"  style="border-radius:10%" src="./assets/Integrantes/Antonio.png" alt="Antonio">| Antonio Aldísio | <a href = "https://github.com/AntoonioAldisio">AntoonioAldisio</a> | 
+|<img width="150px" height = "140px"  style="border-radius:10%" src="https://github.com/AlGouvea.png" alt="Alvaro">|Álvaro  Gouvea| <a href = "https://github.com/AlGouvea">AlGouvea</a>  |
+|<img width="150px" height = "140px"  style="border-radius:10%" src="./assets/Integrantes/sofia.jpeg" alt="Sofia">|Bianca Sofia  Oliveira| <a href = "https://github.com/biancasofia">biancasofia</a>   | 
+|<img width="150px" height = "140px"  style="border-radius:10%" src="https://github.com/GuilhermeB12.png" alt="Gulherme">|Guilherme  Souza |   <a href = "https://github.com/GuilhermeB12">GuilhermeB12</a>  | 
+|<img width="150px" height = "140px"  style="border-radius:10%" src="https://github.com/ViniciusPuerto.png" alt="Porto">|Vinicius Porto|  <a href = "https://github.com/ViniciusPuerto">ViniciusPuerto</a> | 
 
-| Fotos |Nome | Github | email |
-| :---: | :---:  | :---: | :---: |
-|<img width="150px" height = "140px"  style="border-radius:10%" src="./assets/Integrantes/Antonio.png" alt="Antonio">| Antonio Aldísio | AntoonioAldisio | aldisiofilho@gmail.com |
-|<img width="150px" height = "140px"  style="border-radius:10%" src="https://github.com/AlGouvea.png" alt="Alvaro">|Álvaro  Gouvea| AlGouvea | --- | 
-|<img width="150px" height = "140px"  style="border-radius:10%" src="./assets/Integrantes/sofia.jpeg" alt="Sofia">|Bianca Sofia  Oliveira|  biancasofia | sofiabrasil44@gmail.com | 
-|<img width="150px" height = "140px"  style="border-radius:10%" src="https://github.com/GuilhermeBritoDeSouza.png" alt="Gulherme">|Guilherme  Souza |  GuilhermeBritoDeSouza | --- | 
-|<img width="150px" height = "140px"  style="border-radius:10%" src="https://github.com/ViniciusPuerto.png" alt="Porto">|Vinicius Porto| ViniciusPuerto | ---  |
-
-
+</center>

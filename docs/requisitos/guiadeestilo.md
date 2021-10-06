@@ -1,13 +1,13 @@
 # Guia de Estilo
 
 ## 1. Introdução
-<p style="text-indent: 20px; align = "justify">
+<p  align = "justify">
     Guias de estilo consistem em uma documentação de uma série de decisões tomadas sobre o design do projeto para evitar que essas decisões se percam e garantir que elas serão introduzidas no projeto final [1].
 </p>
 
 ## 2. Guia de Estilo
-<p style="text-indent: 20px; align = "justify">
-    Tendo em vista o conceito e a importância de um guia de estilo, decidimos desenvolver o nosso para únificar as decisões de design do nosso projeto. Esse guia irá abordar os seguintes elementos:
+<p  align = "justify">
+    Tendo em vista o conceito e a importância de um guia de estilo, decidimos desenvolver o nosso para unificar as decisões de design do nosso projeto. Esse guia irá abordar os seguintes elementos:
 </p>
 
 - Padrão de Design
@@ -17,14 +17,14 @@
 - Design de Telas
 
 ### 2.1 Padrão de Design
-<p style="text-indent: 20px; align = "justify"> 
+<p  align = "justify"> 
     Padrões de design são descrições das melhores práticas em um determinado domínio. Então, tendo em vista o escopo de nosso projeto, decidimos optar pelo padrão de web design responsivo conhecido como Column Drop.
-    O Column Drop é um padrão de web design responsivo que adapata a formatação das colunas do conteúdo de acordo com a largura da janela, de forma que conforme a janela se torna estreita demais, as colunas são empilhadas verticalmente.
+    O Column Drop é um padrão de web design responsivo que adapta a formatação das colunas do conteúdo de acordo com a largura da janela, de forma que conforme a janela se torna estreita demais, as colunas são empilhadas verticalmente.
 </p>
 
 ### 2.1.1 Exemplo
-<p style="text-indent: 20px; align = "justify">Na imagem a seguir é demonstrado a formatação do layout em Column Drop, com a largura da janela sendo definida pela borda preta</p>
-<img width="450px" src="../../assets/imgs/Column Drop.png" alt="ColumnDrop">
+<p  align = "justify">Na imagem a seguir é demonstrado a formatação do layout em Column Drop, com a largura da janela sendo definida pela borda preta</p>
+<img width="450px" src="../../assets/imgs/ColumnDrop.png" alt="ColumnDrop">
 <figcaption>Figura 01 - Column Drop</figcaption>
 
 ## 2.2 Tipografia
@@ -91,5 +91,6 @@
 |--|--|--|--|
 | 1.0 | 01/09/2021 | Criação do site | Antônio Aldísio |
 | 1.1 | 02/09/2021 | Acréscimo do Conteúdo de Guias de Estilo | Álvaro Gouvea |
+| 1.2 | 06/10/2021 | Correção de link das imagens | Antônio Aldísio |
 
 </center>

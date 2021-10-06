@@ -31,6 +31,8 @@ A avaliação do storyboard tem como objetivo fazer a validação do protótipo 
 
 #### 3.1.2  Questionário da tarefa: Localizar um estabelecimento
 
+<center>
+
 |Perguntas |Opções | 
 |:--:|:--:|
 |Você já utilizou o site FindGlocal?|Sim (X) <br> Não() |
@@ -44,6 +46,9 @@ A avaliação do storyboard tem como objetivo fazer a validação do protótipo 
 </center>
 
 #### 3.1.3  Questionário da tarefa: Denúnciar um anúncio
+
+<center>
+
 |Perguntas |Opções | 
 |:--:|:--:|
 |Você já utilizou o site FindGlocal?|Sim (X) <br> Não() |
@@ -76,6 +81,8 @@ A avaliação do storyboard tem como objetivo fazer a validação do protótipo 
 
 #### 3.2.2  Questionário da tarefa: Localizar um estabelecimento
 
+<center>
+
 |Perguntas |Opções | 
 |:--:|:--:|
 |Você já utilizou o site FindGlocal?|Sim (X) <br> Não() |
@@ -89,6 +96,9 @@ A avaliação do storyboard tem como objetivo fazer a validação do protótipo 
 </center>
 
 #### 3.2.3  Questionário da tarefa: Denúnciar um anúncio
+
+<center>
+
 |Perguntas |Opções | 
 |:--:|:--:|
 |Você já utilizou o site FindGlocal?|Sim (X) <br> Não() |
@@ -112,5 +122,6 @@ A avaliação do storyboard tem como objetivo fazer a validação do protótipo 
 | 2.1 | 16/08/2021 | Revisão | Bianca Sofia |
 | 2.2 | 19/09/2021 | Adição da avaliação de mais uma tarefa | Vinicius Porto |
 | 3.0 | 19/09/2021 | Mais um relato | Vinicius Porto |
+| 3.1 |06/10/2021 | Correção da wiki | Antônio Aldísio |
 
 </center>

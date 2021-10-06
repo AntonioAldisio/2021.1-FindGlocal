@@ -17,13 +17,13 @@ Para coleta de dados, enviamos formulários para pessoas de diferentes realidade
 
 ## 4. Perfil do usuário
 <p align = "justify">
-A partir dos dados coletados observamos as seguintes caractersticas dos usuário:
+A partir dos dados coletados observamos as seguintes características dos usuário:
 </p>
 
 - Poucas pessoas conhece o site;
 - É utilizado por pessoas Adultas;
-- É uitlizado por pessoas que trabalham na cidade;
-- Pessoas que comem mais fora tem maior probailidade de conhecer o site;
+- É utilizado por pessoas que trabalham na cidade;
+- Pessoas que comem mais fora tem maior probabilidade de conhecer o site;
 - Todos tem acesso a internet no celular;
 
 ## Bibliografia <a id="Bibliografia"></a>

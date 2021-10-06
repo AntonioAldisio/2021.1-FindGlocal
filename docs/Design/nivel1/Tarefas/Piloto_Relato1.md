@@ -19,6 +19,9 @@ Esse relato de avaliação tem como base os arquivos da entrega 4, onde foi apre
 </p>
 
 #### 3.1 - Questionário
+
+<center>
+
 |Perguntas |Opções | 
 |:--:|:--:|
 |Você já utilizou o site FindGlocal?|Sim () <br> Não(x) |
@@ -27,12 +30,18 @@ Esse relato de avaliação tem como base os arquivos da entrega 4, onde foi apre
 |O fluxo da análise de tarefas está feito de maneira correta| Sim ()<br> Não() <br> Precisa ajustar(x)|
 |Possui alguma sugestão de melhoria?, baseado na pergunta anterior| O usuário informou que as ações de Selecionar Loja e Fazer Login deveriam ser trocadas.|
 
+</center>
+
+
 ### 4. Pedro Saldanha
 <p align = "justify">
 	Pedro Saldanha tem 24 anos, é formado em administração e dono de uma pequena cafeteria, ele tem média afinidade com tecnologia e utiliza o sistema uma vez ao mês.
 </p>
 
 #### 4.1 - Questionário
+
+<center>
+
 |Perguntas |Opções | 
 |:--:|:--:|
 |Você já utilizou o site FindGlocal?|Sim (x) <br> Não() |
@@ -40,6 +49,9 @@ Esse relato de avaliação tem como base os arquivos da entrega 4, onde foi apre
 |Possui alguma sugestão de melhoria, baseado na pergunta anterior| Não deu sugestão |
 |O fluxo da análise de tarefas está feito de maneira correta| Sim ()<br> Não() <br> Precisa ajustar(x)|
 |Possui alguma sugestão de melhoria?, baseado na pergunta anterior| O usuário informou que a ordem das ações de Selecionar a Loja e fazer Login deveria ser trocada.|
+
+</center>
+
 
 ### 5. Relatório das Avaliações
 
