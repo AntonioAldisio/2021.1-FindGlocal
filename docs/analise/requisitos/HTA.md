@@ -53,7 +53,7 @@ Após a realização da verificação, percebeu-se que, o artefato Análise Hier
 ## 5. Acompanhamento
 
 <p align="justify">
-Os problemas encontrados durante a verificação foram corrigidos.
+Os problemas em relação a técnica não foi corrido até o dia 07/10/2021
 </p>
 
 ## 6. Bibliografia <a id="Bibliografia"></a>
