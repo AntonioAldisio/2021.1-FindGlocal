@@ -1,9 +1,8 @@
 # Guia de Estilo
 
-## 1. Motivo da alteracao
+## 1. Motivo da alteração
 <p  align = "justify">
- Com o desenvolvimento do projeto notamos que as escolha que adotamos no inicio nao seria teriamos
-as melhores cores e simbolismo para o projeto.
+ Ao longo do desenvolvimento do projeto observamos que a adoção da versão do primeiro guia era uma visão inadequada,sendo assim, revisamos e adotamos o guia de estilo a seguir.
 </p>
 
 
@@ -43,26 +42,20 @@ as melhores cores e simbolismo para o projeto.
     Para consitência do projeto e entre todos os membros do grupo, definimos a tipografia que será utilizada no projeto.
 </p>
 
-- Nomes (nomes de lojas e serviços disponíveis): Open Sans Regular
-- Informações (os dados das lojas encontradas): Montserrat Extra-light
-- Links (qulquer hiper-link disponível na página): Montserrat Extra-light italic
-- Menus (menus e informações da página em si): Open Sans Regular
+- Nomes (nomes de lojas e serviços disponíveis): Roboto
+- Informações (os dados das lojas encontradas): Roboto
+- Links (qulquer hiper-link disponível na página): Roboto
+- Menus (menus e informações da página em si): Roboto
 
 ## 4. Simbolismo
 <p align = "justify">
     O objetivo da definição do Simbolismo do projeto é manter a clareza e a consistência no design de ícones para garantir compreensão e visibilidade.
 </p>
+<p align = "justify"> Para o desenvolvimento dos protótipos será utilizado o plugin do figma de ícones, disponível no <a href = "https://www.figma.com/community/plugin/735098390272716381/Iconify">link</a>
 
-### 4.1 Exemplos de símbolos do projeto
 
-<center>
+</p>
 
-<img width="250px" src="../../assets/imgs/Pesquisa.png" alt="Pesquisa">
-<figcaption>Figura 02 - Ícone de Pesquisa</figcaption>
-<img width="250px" src="../../assets/imgs/Home.png" alt="Home">
-<figcaption>Figura 03 - Ícone de Menu Principal</figcaption>
-
-</center>
 
 ## 5. Cores
 <p align = "justify">
@@ -72,9 +65,14 @@ as melhores cores e simbolismo para o projeto.
 ### 5.1 Paleta
 
 <center>
+|Cor |Código | 
+|:--:| :--:|
+|Azul|#518FD8|
+|Cinza fundo|#FAFAFA|
+|Verde|#34A853|
 
-<img width="250px" src="../../assets/imgs/Cores.png" alt="Cores">
-<figcaption>Figura 06 - Paleta</figcaption>
+
+<figcaption>Tabela 01 - Paleta de cores</figcaption>
 
 </center>
 
@@ -94,5 +92,6 @@ as melhores cores e simbolismo para o projeto.
 |--|--|--|--|
 | 1.0 | 15/10/2021 | Criação do site | Antônio Aldísio |
 | 1.1 | 12/10/2021 | Acréscimo do Conteúdo de Guias de Estilo |  Antônio Aldísio |
+| 1.2 | 18/10/2021 | Correção de erros |Bianca Sofia e Antônio Aldísio |
 
 </center>
