@@ -19,7 +19,9 @@ nav:
       - Árvore de tarefas concorrentes: 'requisitos/CTT.md'
     - Princípios Gerais de Projeto: 'requisitos/principios.md'
     - Metas de Usabilidade: 'requisitos/usabilidade.md'
-    - Guia de Estilo: 'requisitos/guiadeestilo.md'
+    - Guia de Estilo: 
+      - V01: 'requisitos/guiadeestilo.md'
+      - V02: 'requisitos/guiadeestilo2.md'
   
   - Design, avaliação e desenvolvimento:
     - Nível 1:
@@ -51,7 +53,7 @@ nav:
       - Planejamento da Avaliação: 'Design/nivel3/Planejamento.md'
       - Planejamento do Relato dos Resultados: 'Design/nivel3/Planejamento_relato.md'    
   
-  - Análise: 
+  - Análise:  
     - Verificação:
       - Introdução: 'analise/modelo.md'
       - Análise de requisitos:
