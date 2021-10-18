@@ -15,7 +15,9 @@ nav:
       - Perfil do Usuário: 'requisitos/perfil_do_usuário.md'
       - Personas: 'requisitos/personas.md'
     - Análise de tarefas: 
-      - Análise Hierárquica de tarefas: 'requisitos/HTA.md'
+      - Análise Hierárquica de tarefas: 
+        - V01: 'requisitos/HTA.md'
+        - V02: 'requisitos/HTA2.md'
       - Árvore de tarefas concorrentes: 'requisitos/CTT.md'
     - Princípios Gerais de Projeto: 'requisitos/principios.md'
     - Metas de Usabilidade: 'requisitos/usabilidade.md'
