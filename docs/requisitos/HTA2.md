@@ -30,6 +30,17 @@ pareça mais alto na hierarquia. (Seels & Glasgow, 1990, p. 94)".
 <img width="450x"  src="../../assets/imgs/HTA01.jpeg" alt="disponibildiade">
 <figcaption>Figura 01 - HTA 01 Buscar loja </figcaption>
 
+
+
+
+|Objetivos\Operações| Recomendações|
+|:--:| :--:|
+|Buscar loja| Ação: procurar uma loja|
+|Loja encontrada| Ação: Selecionar estabelecimento desejado|
+|Mais informações| Ação: Coletar dados do estabelecimento|
+
+<figcaption>Tabela 01 - HTA 01 Buscar loja </figcaption>
+
 </center>
 
 ### 2.2 HTA 02 - Cadastrar Loja
@@ -38,7 +49,18 @@ pareça mais alto na hierarquia. (Seels & Glasgow, 1990, p. 94)".
 
 <img width="450x"  src="../../assets/imgs/HTA02.jpeg" alt="disponibildiade">
 <figcaption>Figura 02 - HTA 02 Cadastrar loja </figcaption>
-                                                                           
+                                           
+
+|Objetivos\Operações| Recomendações|
+|:--:| :--:|
+|Cadastrar loja| Ação: Selecionar opção de cadastrar uma loja|
+|Login| Ação: Realizar login |
+|Informe facebook| Ação: Realizar login via url do facebook|
+|Confirme endereço e telefone|Ação: Informar endereço e telefone para confirmar| 
+
+
+<figcaption>Tabela 02 - HTA 02 Cadastrar loja </figcaption>
+
 </center>
 
 ### 2.3 HTA 03 - Denúnciar Anúncio
@@ -47,6 +69,18 @@ pareça mais alto na hierarquia. (Seels & Glasgow, 1990, p. 94)".
 
 <img width="450x"  src="../../assets/imgs/HTA03.png" alt="disponibildiade">
 <figcaption>Figura 03 - HTA 03 Denunciar Anuncio </figcaption>
+
+                                           
+
+|Objetivos\Operações| Recomendações|
+|:--:| :--:|
+|Procurar loja| Ação: Selecionar loja|
+|Loja encontrada| Ação: Clicar em mais opções|
+|Denunciar anúncio| Ação: Realizar operação de login|
+|Informar motivo da denuncia|Ação: Realizar denúncia| 
+|Concluir denúncia| Ação: Confirmar denúncia ou cancelar|
+
+<figcaption>Tabela 03 - HTA 03 Denunciar Anuncio </figcaption>
                                                                            
 </center>
 
@@ -61,13 +95,7 @@ pareça mais alto na hierarquia. (Seels & Glasgow, 1990, p. 94)".
 
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
-| 1.0 | 19/08/2021 | Criação do site | Antônio Aldísio |
-| 1.1 | 25/08/2021 | Acréscimo do conteúdo de HTA | Antônio Aldísio |
-| 1.3 | 25/08/2021 | Acréscimo do conteúdo de CTT | Álvaro  Gouvea |
-| 1.4 | 30/08/2021 | Revisado | Guilherme e Bianca Sofia |
-| 1.5 | 02/08/2021 | Separação de página | Antônio Aldísio |
-| 1.6 | 06/09/2021 | Acréscimo de Imagens de HTA | Álvaro  Gouvea |
-| 1.7 | 12/09/2021 | Correção de Divisões | Álvaro  Gouvea |
+| 1.0 | 18/10/2021 | Criação do site e criação de nova versão | Antônio Aldísio e Bianca Sofia|
 
 
 </center>
