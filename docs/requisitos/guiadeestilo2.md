@@ -29,10 +29,7 @@ as melhores cores e simbolismo para o projeto.
     O Column Drop é um padrão de web design responsivo que adapta a formatação das colunas do conteúdo de acordo com a largura da janela, de forma que conforme a janela se torna estreita demais, as colunas são empilhadas verticalmente.
 </p>
 
-### 3.1.1 Exemplo
-<p  align = "justify">Na imagem a seguir é demonstrado a formatação do layout em Column Drop, com a largura da janela sendo definida pela borda preta</p>
-<img width="450px" src="../../assets/imgs/ColumnDrop.png" alt="ColumnDrop">
-<figcaption>Figura 01 - Column Drop</figcaption>
+
 
 ## 3.2 Tipografia
 <p align = "justify">
