@@ -15,7 +15,7 @@ nav:
       - Perfil do Usuário: 'requisitos/perfil_do_usuário.md'
       - Personas: 'requisitos/personas.md'
     - Análise de tarefas: 
-      - Análise Hierárquica de tarefas: 
+      - Análise Hierárquica de tarefas:
         - V01: 'requisitos/HTA.md'
         - V02: 'requisitos/HTA2.md'
       - Árvore de tarefas concorrentes: 'requisitos/CTT.md'
@@ -47,13 +47,16 @@ nav:
       - Protótipo de baixa fidelidade: 'Design/nivel2/baixa.md'
       - Planejamento da Avaliação: 'Design/nivel2/Planejamento.md'
       - Planejamento do Relato dos Resultados: 'Design/nivel2/Planejamento_relato.md'
-      - Relatos:
+      - Relato:
         - V01: 'Design/nivel2/relato.md'
 
     - Nível 3: 
       - Protótipo de alta fidelidade: 'Design/nivel3/alta.md'
       - Planejamento da Avaliação: 'Design/nivel3/Planejamento.md'
-      - Planejamento do Relato dos Resultados: 'Design/nivel3/Planejamento_relato.md'    
+      - Planejamento do Relato dos Resultados: 'Design/nivel3/Planejamento_relato.md'
+      - Relato:
+        - V01: 'Design/nivel3/Relato.md'
+    
   
   - Análise:  
     - Verificação:

@@ -62,6 +62,7 @@
 ### 5.1 Paleta
 
 <center>
+
 |Cor |Código | 
 |:--:| :--:|
 |Azul|#518FD8|
