@@ -74,7 +74,7 @@ Vale informar que as informações obtidas por meio deste questionário serão t
 |02|Conseguiu finalizar a busca de estabelecimentos sem interrupções do sistema?|1-Sim() <br>2-Não() <br>3-Consegui, mas ocorreram erros no caminho()|
 |03|Você consegue buscar estabelecimentos pela barra de pesquisa do sistema?|1-Sim() <br>2-Não() <br>3-Consegui, mas ocorreram erros no caminho()|
 |04|Posssui alguma sugestão de melhoria? se sim, quais?|Pergunta aberta|
-<figcaption> Tabela 2 - Perguntas que devem ser feitas aos participantes sobre a tarefa de buscar localização</figcaption>
+<figcaption> Tabela 3 - Perguntas que devem ser feitas aos participantes sobre a tarefa de buscar localização</figcaption>
 </center>
 
 
@@ -85,7 +85,7 @@ Vale informar que as informações obtidas por meio deste questionário serão t
 |01|Como você avalia a realização da tarefa de denunciar anúncio?|1-Muito difícil() <br>2-Difícil() <br>3-Normal() <br>4-Fácil() <br>5-Extremamente fácil()|
 |02|Conseguiu finalizar a denuncia sem interrupções do sistema?|1-Sim() <br>2-Não() <br>3-Consegui, mas ocorreram erros no caminho()|
 |03|Posssui alguma sugestão de melhoria? se sim, quais?|Pergunta aberta|
-<figcaption> Tabela 2 - Perguntas que devem ser feitas aos participantes sobre o login e cadastro</figcaption>
+<figcaption> Tabela 4 - Perguntas que devem ser feitas aos participantes sobre o login e cadastro</figcaption>
 
 </center>
 
