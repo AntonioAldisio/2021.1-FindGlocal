@@ -67,11 +67,11 @@ A avaliação do storyboard tem como objetivo fazer a validação dos <a href = 
 
 
 ## 5. Problemas encontrados
-<p align = "justify">Os avaliadores devem informar os problemas encontrados pelos participantes.
+<p align = "justify">Os participantes não informaram nenhum problema encontrado.
 </p>
 
 ## 6 Planejamento para reprojeto do sistema
-<p align = "justify">Os avaliadores devem informar possiveis melhorias apresentadas pelos participantes em locais que tenha problemas encontrados ou em dificuldades apresentadas pelo participantes.
+<p align = "justify">Não teve reprojeto nessa etapa
 </p>
 
 
@@ -81,6 +81,7 @@ A avaliação do storyboard tem como objetivo fazer a validação dos <a href = 
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 |16/09/2021 | Criação do site | Antônio Aldísio |
+| 1.1 |19/10/2021 | Update dos itens 5 e 6  | Antônio Aldísio |
 
 
 </center>
